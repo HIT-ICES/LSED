@@ -43,70 +43,70 @@
 
 Fruchterman–Reingold graph drawing
 
-![](./picture/Fruchterman%E2%80%93ReingoldGraphDrawing.png)
+![](https://github.com/HIT-ICES/LSED/blob/main/picture/Fruchterman%E2%80%93ReingoldGraphDrawing.png)
 
 Degree Distribution
 
-![img](./picture/degreeDistribution.png)
+![img](https://github.com/HIT-ICES/LSED/blob/main/picture/degreeDistribution.png)
 
 Cumulative Degree Distribution
 
-![img](./picture/cumulativeDegreeDistribution.png)
+![img](https://github.com/HIT-ICES/LSED/blob/main/picture/cumulativeDegreeDistribution.png)
 
 Lorenz Curve
 
-![img](./picture/lorenzCurve.png)
+![img](https://github.com/HIT-ICES/LSED/blob/main/picture/lorenzCurve.png)
 
 Spectral Distribution Of The Adjacency Matrix
 
-![img](./picture/spectralDistributionOfTheAdjacencyMatrix.png)
+![img](https://github.com/HIT-ICES/LSED/blob/main/picture/spectralDistributionOfTheAdjacencyMatrix.png)
 
 Spectral Distribution Of The Normalized Adjacency Matrix
 
-![img](./picture/spectralDistributionOfTheNormalizedAdjacencyMatrix.png)
+![img](https://github.com/HIT-ICES/LSED/blob/main/picture/spectralDistributionOfTheNormalizedAdjacencyMatrix.png)
 
 Spectral Distribution Of The Laplacian
 
-![img](./picture/spectralDistributionOfTheLaplacian.png)
+![img](https://github.com/HIT-ICES/LSED/blob/main/picture/spectralDistributionOfTheLaplacian.png)
 
 Degree Assortativity
 
-![img](./picture/degreeAssortativity.png)
+![img](https://github.com/HIT-ICES/LSED/blob/main/picture/degreeAssortativity.png)
 
 In/Outdegree Scatter Plot
 
-![img](./picture/inoutdegreeScatterPlot.png)
+![img](https://github.com/HIT-ICES/LSED/blob/main/picture/inoutdegreeScatterPlot.png)
 
 Edge Weight Histogram
 
-![img](./picture/edgeWeightHistogram1.png)
+![img](https://github.com/HIT-ICES/LSED/blob/main/picture/edgeWeightHistogram1.png)
 
-![img](./picture/edgeWeightHistogram2.png)
+![img](https://github.com/HIT-ICES/LSED/blob/main/picture/edgeWeightHistogram2.png)
 
-![img](./picture/edgeWeightHistogram3.png)
+![img](https://github.com/HIT-ICES/LSED/blob/main/picture/edgeWeightHistogram3.png)
 
-![img](./picture/edgeWeightHistogram4.png)
+![img](https://github.com/HIT-ICES/LSED/blob/main/picture/edgeWeightHistogram4.png)
 
-![img](./picture/edgeWeightHistogram5.png)
+![img](https://github.com/HIT-ICES/LSED/blob/main/picture/edgeWeightHistogram5.png)
 
-![img](./picture/edgeWeightHistogram6.png)
+![img](https://github.com/HIT-ICES/LSED/blob/main/picture/edgeWeightHistogram6.png)
 
 Clustering Coefficient Distribution
 
-![img](./picture/clusteringCoefficientDistribution.png)
+![img](https://github.com/HIT-ICES/LSED/blob/main/picture/clusteringCoefficientDistribution.png)
 
 Average Neighbor Degree Distribution
 
-![img](./picture/averageNeighborDegreeDistribution.png)
+![img](https://github.com/HIT-ICES/LSED/blob/main/picture/averageNeighborDegreeDistribution.png)
 
 Temporal Distribution
 
-![img](./picture/temporalDistribution.png)
+![img](https://github.com/HIT-ICES/LSED/blob/main/picture/temporalDistribution.png)
 
 Diameter/density Evolution
 
-![img](./picture/DiameterdensityEvolution.png)
+![img](https://github.com/HIT-ICES/LSED/blob/main/picture/DiameterdensityEvolution.png)
 
 Inter-event Distribution
 
-![img](./picture/inter-eventDistribution.png)
+![img](https://github.com/HIT-ICES/LSED/blob/main/picture/inter-eventDistribution.png)
