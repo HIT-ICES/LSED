@@ -1,0 +1,4031 @@
+[{
+    "source": "迪士尼",
+    "target": "20世纪福克斯",
+    "relation": "旗下"
+},
+{
+    "source": "苹果",
+    "target": "ApplePay",
+    "relation": "发布"
+},
+{
+    "source": "苹果",
+    "target": "AppStore",
+    "relation": "开发"
+},
+{
+    "source": "软银",
+    "target": "ARM",
+    "relation": "收购",
+    "timestamp": "2016-07-18"
+},
+{
+    "source": "正大集团",
+    "target": "AscendMoney",
+    "relation": "旗下"
+},
+{
+    "source": "中兴",
+    "target": "BlueData",
+    "relation": "旗下"
+},
+{
+    "source": "华纳兄弟",
+    "target": "DC",
+    "relation": "子公司"
+},
+{
+    "source": "沃尔玛",
+    "target": "Flipkart",
+    "relation": "收购",
+    "timestamp": "2018-08-08"
+},
+{
+    "source": "开云集团",
+    "target": "Gucci",
+    "relation": "旗下"
+},
+{
+    "source": "微软",
+    "target": "HoloLens",
+    "relation": "开发"
+},
+{
+    "source": "迪士尼",
+    "target": "Hulu",
+    "relation": "全面运营控制权",
+    "timestamp": "2019-05-14"
+},
+{
+    "source": "肯德基",
+    "target": "KFCoriginal+",
+    "relation": "推出"
+},
+{
+    "source": "百度",
+    "target": "KFCoriginal+",
+    "relation": "推出"
+},
+{
+    "source": "百度",
+    "target": "KITTAI",
+    "relation": "收购",
+    "timestamp": "2017-07-05"
+},
+{
+    "source": "苏宁",
+    "target": "Laox",
+    "relation": "旗下"
+},
+{
+    "source": "猎豹移动",
+    "target": "Live.me",
+    "relation": "旗下"
+},
+{
+    "source": "Lyft",
+    "target": "Motivate",
+    "relation": "收购",
+    "timestamp": "2018-07-03"
+},
+{
+    "source": "字节跳动",
+    "target": "Musical.ly",
+    "relation": "收购",
+    "timestamp": "2017-11-10"
+},
+{
+    "source": "东软",
+    "target": "NetEye网络安全产品",
+    "relation": "研发"
+},
+{
+    "source": "Facebook",
+    "target": "Oculus",
+    "relation": "收购",
+    "timestamp": "2014-12-13"
+},
+{
+    "source": "万达",
+    "target": "Odeon&UCI",
+    "relation": "并购",
+    "timestamp": "2016-07-13"
+},
+{
+    "source": "NASA",
+    "target": "OpenStack",
+    "relation": "研发"
+},
+{
+    "source": "戴尔",
+    "target": "Powervault",
+    "relation": "下辖"
+},
+{
+    "source": "瓜子二手车",
+    "target": "PP租车",
+    "relation": "收购",
+    "timestamp": "2019-03-04"
+},
+{
+    "source": "腾讯",
+    "target": "QQ旋风",
+    "relation": "推出"
+},
+{
+    "source": "腾讯",
+    "target": "QQ音乐",
+    "relation": "旗下"
+},
+{
+    "source": "腾讯音乐",
+    "target": "QQ音乐",
+    "relation": "涵盖"
+},
+{
+    "source": "领英",
+    "target": "RunHop",
+    "relation": "收购",
+    "timestamp": "2016-05-16"
+},
+{
+    "source": "VectorCapital",
+    "target": "Saba",
+    "relation": "收购",
+    "timestamp": "2015-02-16"
+},
+{
+    "source": "苹果",
+    "target": "Safari",
+    "relation": "研发"
+},
+{
+    "source": "微软",
+    "target": "Skype",
+    "relation": "收购",
+    "timestamp": "2011-10-14"
+},
+{
+    "source": "Valve",
+    "target": "Steam",
+    "relation": "开发设计"
+},
+{
+    "source": "百度",
+    "target": "TalkType",
+    "relation": "推出"
+},
+{
+    "source": "阿里巴巴",
+    "target": "Teambition",
+    "relation": "旗下"
+},
+{
+    "source": "1MORE",
+    "target": "TiinLab",
+    "relation": "合并"
+},
+{
+    "source": "腾讯",
+    "target": "TIM",
+    "relation": "旗下"
+},
+{
+    "source": "京东",
+    "target": "TOPLIFE",
+    "relation": "旗下"
+},
+{
+    "source": "阿里巴巴",
+    "target": "UC",
+    "relation": "旗下"
+},
+{
+    "source": "UCloud",
+    "target": "U市场",
+    "relation": "推出"
+},
+{
+    "source": "Valve",
+    "target": "Vive",
+    "relation": "开发"
+},
+{
+    "source": "HTC",
+    "target": "Vive",
+    "relation": "开发"
+},
+{
+    "source": "HTC",
+    "target": "ViveportArcade",
+    "relation": "推出"
+},
+{
+    "source": "万科",
+    "target": "V盟",
+    "relation": "成立"
+},
+{
+    "source": "Alphabet",
+    "target": "Waymo",
+    "relation": "旗下"
+},
+{
+    "source": "腾讯",
+    "target": "WeGame",
+    "relation": "开发"
+},
+{
+    "source": "西联汇款",
+    "target": "WUConnect",
+    "relation": "推出"
+},
+{
+    "source": "微软",
+    "target": "Xbox",
+    "relation": "旗下"
+},
+{
+    "source": "百度",
+    "target": "xPerception",
+    "relation": "收购",
+    "timestamp": "2017-04-13"
+},
+{
+    "source": "百度",
+    "target": "YY",
+    "relation": "收购",
+    "timestamp": "2020-11-17"
+},
+{
+    "source": "阿里巴巴",
+    "target": "阿里健康",
+    "relation": "旗下"
+},
+{
+    "source": "阿里巴巴",
+    "target": "阿里体育",
+    "relation": "控股"
+},
+{
+    "source": "阿里巴巴",
+    "target": "阿里文学",
+    "relation": "推出"
+},
+{
+    "source": "虾米音乐",
+    "target": "阿里音乐",
+    "relation": "合并为"
+},
+{
+    "source": "阿里巴巴",
+    "target": "阿里音乐",
+    "relation": "旗下"
+},
+{
+    "source": "阿里巴巴",
+    "target": "阿里影业",
+    "relation": "收购",
+    "timestamp": "2014-06-24"
+},
+{
+    "source": "阿里巴巴",
+    "target": "阿里云",
+    "relation": "旗下"
+},
+{
+    "source": "百度",
+    "target": "安卓网",
+    "relation": "并购",
+    "timestamp": "2013-10-01"
+},
+{
+    "source": "百度",
+    "target": "百度安全",
+    "relation": "旗下"
+},
+{
+    "source": "百度",
+    "target": "百度百科",
+    "relation": "推出"
+},
+{
+    "source": "百度",
+    "target": "百度风投",
+    "relation": "成立"
+},
+{
+    "source": "百度",
+    "target": "百度金融",
+    "relation": "旗下"
+},
+{
+    "source": "百度",
+    "target": "百度糯米",
+    "relation": "收购",
+    "timestamp": "2014-01-24"
+},
+{
+    "source": "百度金融",
+    "target": "百度钱包",
+    "relation": "旗下"
+},
+{
+    "source": "百度",
+    "target": "百度视频",
+    "relation": "旗下"
+},
+{
+    "source": "百度",
+    "target": "百度手机助手",
+    "relation": "开发"
+},
+{
+    "source": "百度",
+    "target": "百度顺风车",
+    "relation": "旗下"
+},
+{
+    "source": "百度",
+    "target": "百度搜索",
+    "relation": "推出"
+},
+{
+    "source": "百度",
+    "target": "百度贴吧",
+    "relation": "旗下"
+},
+{
+    "source": "饿了么",
+    "target": "百度外卖",
+    "relation": "收购",
+    "timestamp": "2017-08-24"
+},
+{
+    "source": "百度",
+    "target": "百度网盘",
+    "relation": "旗下"
+},
+{
+    "source": "百度",
+    "target": "百度未来商店",
+    "relation": "推出"
+},
+{
+    "source": "百度",
+    "target": "百度文库",
+    "relation": "发布"
+},
+{
+    "source": "百度",
+    "target": "百度有钱花",
+    "relation": "旗下"
+},
+{
+    "source": "百度",
+    "target": "百度资本",
+    "relation": "成立"
+},
+{
+    "source": "百度",
+    "target": "百家号",
+    "relation": "打造"
+},
+{
+    "source": "字节跳动",
+    "target": "百科名医网",
+    "relation": "全资收购",
+    "timestamp": "2020-08-12"
+},
+{
+    "source": "中信银行",
+    "target": "百信银行",
+    "relation": "发起"
+},
+{
+    "source": "百度",
+    "target": "百信银行",
+    "relation": "发起"
+},
+{
+    "source": "安达",
+    "target": "贝因美",
+    "relation": "被兼并"
+},
+{
+    "source": "戴姆勒",
+    "target": "奔驰",
+    "relation": "旗下"
+},
+{
+    "source": "腾讯",
+    "target": "财付通",
+    "relation": "推出"
+},
+{
+    "source": "阿里巴巴",
+    "target": "菜鸟",
+    "relation": "旗下"
+},
+{
+    "source": "搜狐",
+    "target": "畅游",
+    "relation": "全资拥有"
+},
+{
+    "source": "阿里巴巴",
+    "target": "诚信通",
+    "relation": "推出"
+},
+{
+    "source": "达能",
+    "target": "达能纽迪希亚",
+    "relation": "旗下"
+},
+{
+    "source": "美团",
+    "target": "大众点评",
+    "relation": "合并"
+},
+{
+    "source": "快的",
+    "target": "滴滴",
+    "relation": "合并"
+},
+{
+    "source": "链家",
+    "target": "丁丁租房",
+    "relation": "被并入",
+    "timestamp": "2016-06-09"
+},
+{
+    "source": "阿里巴巴",
+    "target": "钉钉",
+    "relation": "打造"
+},
+{
+    "source": "字节跳动",
+    "target": "懂车帝",
+    "relation": "旗下"
+},
+{
+    "source": "百度",
+    "target": "渡鸦科技",
+    "relation": "收购",
+    "timestamp": "2017-02-16"
+},
+{
+    "source": "星游传媒",
+    "target": "多牛传媒",
+    "relation": "被收购",
+    "timestamp": "2017-12-25"
+},
+{
+    "source": "阿里巴巴",
+    "target": "饿了么",
+    "relation": "收购",
+    "timestamp": "2018-04-02"
+},
+{
+    "source": "阿里巴巴",
+    "target": "飞猪",
+    "relation": "旗下"
+},
+{
+    "source": "广汽集团",
+    "target": "冠道",
+    "relation": "旗下"
+},
+{
+    "source": "海航集团",
+    "target": "海航旅游",
+    "relation": "旗下"
+},
+{
+    "source": "百度视频",
+    "target": "好看视频",
+    "relation": "旗舰"
+},
+{
+    "source": "美团",
+    "target": "互联网+大学",
+    "relation": "成立"
+},
+{
+    "source": "华大基因",
+    "target": "华大科技",
+    "relation": "旗下子公司"
+},
+{
+    "source": "华为",
+    "target": "华为支付",
+    "relation": "研究"
+},
+{
+    "source": "锤子",
+    "target": "坚果品牌",
+    "relation": "研发"
+},
+{
+    "source": "人民日报",
+    "target": "健康时报",
+    "relation": "主办"
+},
+{
+    "source": "1号店",
+    "target": "京东",
+    "relation": "并入",
+    "timestamp": "2016-06-21"
+},
+{
+    "source": "达达",
+    "target": "京东到家",
+    "relation": "旗下"
+},
+{
+    "source": "京东",
+    "target": "京东金融",
+    "relation": "旗下"
+},
+{
+    "source": "京东",
+    "target": "京东云",
+    "relation": "旗下"
+},
+{
+    "source": "阿里巴巴",
+    "target": "聚划算",
+    "relation": "旗下"
+},
+{
+    "source": "思科",
+    "target": "科天云",
+    "relation": "创立"
+},
+{
+    "source": "TCL",
+    "target": "科天云",
+    "relation": "创立"
+},
+{
+    "source": "阿里巴巴",
+    "target": "客如云",
+    "relation": "全资子公司"
+},
+{
+    "source": "百胜",
+    "target": "肯德基",
+    "relation": "旗下"
+},
+{
+    "source": "蚂蚁金服",
+    "target": "口碑",
+    "relation": "打造"
+},
+{
+    "source": "阿里巴巴",
+    "target": "口碑",
+    "relation": "打造"
+},
+{
+    "source": "美的",
+    "target": "库卡",
+    "relation": "子公司"
+},
+{
+    "source": "腾讯音乐",
+    "target": "酷狗音乐",
+    "relation": "涵盖"
+},
+{
+    "source": "美团外卖",
+    "target": "快驴",
+    "relation": "包含"
+},
+{
+    "source": "阿里健康",
+    "target": "蓝帽子",
+    "relation": "收购",
+    "timestamp": "2017-05-19"
+},
+{
+    "source": "乐乐课堂",
+    "target": "乐乐作文",
+    "relation": "上线"
+},
+{
+    "source": "乐视",
+    "target": "乐视体育",
+    "relation": "旗下"
+},
+{
+    "source": "腾讯",
+    "target": "零钱通",
+    "relation": "旗下"
+},
+{
+    "source": "微软",
+    "target": "领英",
+    "relation": "收购",
+    "timestamp": "2016-06-13"
+},
+{
+    "source": "国家电网",
+    "target": "鲁能集团",
+    "relation": "全资子公司"
+},
+{
+    "source": "蚂蚁金服",
+    "target": "蚂蚁花呗",
+    "relation": "推出"
+},
+{
+    "source": "阿里巴巴",
+    "target": "蚂蚁金服",
+    "relation": "旗下"
+},
+{
+    "source": "迪士尼",
+    "target": "漫威",
+    "relation": "子公司",
+    "timestamp": "2009-12-31"
+},
+{
+    "source": "湖南广电",
+    "target": "芒果TV",
+    "relation": "旗下"
+},
+{
+    "source": "美团",
+    "target": "猫眼",
+    "relation": "旗下"
+},
+{
+    "source": "美团",
+    "target": "猫眼电影",
+    "relation": "旗下"
+},
+{
+    "source": "美团",
+    "target": "美团旅行",
+    "relation": "上线"
+},
+{
+    "source": "美团",
+    "target": "美团外卖",
+    "relation": "旗下"
+},
+{
+    "source": "阿里巴巴",
+    "target": "美味不用等",
+    "relation": "全资收购",
+    "timestamp": "2021-01-18"
+},
+{
+    "source": "美团",
+    "target": "摩拜",
+    "relation": "收购",
+    "timestamp": "2018-04-03"
+},
+{
+    "source": "联想",
+    "target": "摩托罗拉",
+    "relation": "收购",
+    "timestamp": "2014-01-30"
+},
+{
+    "source": "腾讯",
+    "target": "朋友网",
+    "relation": "打造"
+},
+{
+    "source": "迪士尼",
+    "target": "皮克斯",
+    "relation": "收购",
+    "timestamp": "2006-01-23"
+},
+{
+    "source": "美团",
+    "target": "屏芯科技",
+    "relation": "全资收购",
+    "timestamp": "2018-05-16"
+},
+{
+    "source": "医联",
+    "target": "企鹅医生",
+    "relation": "发起创立",
+    "timestamp": "2016-06-01"
+},
+{
+    "source": "腾讯",
+    "target": "企鹅医生",
+    "relation": "发起创立",
+    "timestamp": "2016-06-01"
+},
+{
+    "source": "腾讯",
+    "target": "企鹅影视",
+    "relation": "旗下"
+},
+{
+    "source": "腾讯",
+    "target": "千聊",
+    "relation": "孵化"
+},
+{
+    "source": "美团",
+    "target": "钱袋宝",
+    "relation": "全资收购",
+    "timestamp": "2016-09-30"
+},
+{
+    "source": "清华附中",
+    "target": "清华大学",
+    "relation": "并入"
+},
+{
+    "source": "小米",
+    "target": "睿付通",
+    "relation": "收购",
+    "timestamp": "2016-02-23"
+},
+{
+    "source": "三一集团",
+    "target": "三一重工",
+    "relation": "创建"
+},
+{
+    "source": "神州数码",
+    "target": "神州云计算",
+    "relation": "推出"
+},
+{
+    "source": "神州优车",
+    "target": "神州租车",
+    "relation": "旗下"
+},
+{
+    "source": "腾讯",
+    "target": "搜狗",
+    "relation": "全资收购",
+    "timestamp": "2021-09-24"
+},
+{
+    "source": "搜狐",
+    "target": "搜狐视频",
+    "relation": "旗下"
+},
+{
+    "source": "百度音乐",
+    "target": "太合音乐",
+    "relation": "合并",
+    "timestamp": "2015-12-03"
+},
+{
+    "source": "阿里巴巴",
+    "target": "淘宝",
+    "relation": "旗下"
+},
+{
+    "source": "腾讯",
+    "target": "腾爱医生",
+    "relation": "旗下"
+},
+{
+    "source": "腾讯",
+    "target": "腾讯WiFi管家",
+    "relation": "旗下"
+},
+{
+    "source": "腾讯",
+    "target": "腾讯地图",
+    "relation": "推出"
+},
+{
+    "source": "腾讯",
+    "target": "腾讯电脑管家",
+    "relation": "推出"
+},
+{
+    "source": "腾讯",
+    "target": "腾讯动漫",
+    "relation": "旗下"
+},
+{
+    "source": "腾讯",
+    "target": "腾讯课堂",
+    "relation": "推出"
+},
+{
+    "source": "腾讯",
+    "target": "腾讯汽车",
+    "relation": "旗下"
+},
+{
+    "source": "腾讯",
+    "target": "腾讯视频",
+    "relation": "旗下"
+},
+{
+    "source": "腾讯",
+    "target": "腾讯体育",
+    "relation": "旗下"
+},
+{
+    "source": "腾讯",
+    "target": "腾讯微视",
+    "relation": "旗下"
+},
+{
+    "source": "腾讯",
+    "target": "腾讯微云",
+    "relation": "打造"
+},
+{
+    "source": "腾讯",
+    "target": "腾讯影业",
+    "relation": "全资子公司"
+},
+{
+    "source": "腾讯",
+    "target": "腾讯优图",
+    "relation": "旗下"
+},
+{
+    "source": "腾讯",
+    "target": "腾讯游戏",
+    "relation": "旗下"
+},
+{
+    "source": "腾讯",
+    "target": "腾讯云",
+    "relation": "旗下"
+},
+{
+    "source": "阿里巴巴",
+    "target": "天猫",
+    "relation": "旗下"
+},
+{
+    "source": "天猫",
+    "target": "天猫医药",
+    "relation": "旗下"
+},
+{
+    "source": "苏宁",
+    "target": "天天快递",
+    "relation": "收购",
+    "timestamp": "2017-01-03"
+},
+{
+    "source": "芒果TV",
+    "target": "天娱传媒",
+    "relation": "旗下"
+},
+{
+    "source": "中国电信",
+    "target": "甜橙金融",
+    "relation": "全资子公司"
+},
+{
+    "source": "阿里巴巴",
+    "target": "豌豆荚",
+    "relation": "收购",
+    "timestamp": "2016-07-05"
+},
+{
+    "source": "万达",
+    "target": "万达网络",
+    "relation": "旗下"
+},
+{
+    "source": "万达",
+    "target": "万达影视",
+    "relation": "旗下"
+},
+{
+    "source": "阿里巴巴",
+    "target": "网易考拉海购",
+    "relation": "旗下"
+},
+{
+    "source": "网易",
+    "target": "网易严选",
+    "relation": "旗下"
+},
+{
+    "source": "美的",
+    "target": "威灵",
+    "relation": "旗下"
+},
+{
+    "source": "腾讯",
+    "target": "微信",
+    "relation": "旗下"
+},
+{
+    "source": "腾讯",
+    "target": "微信读书",
+    "relation": "旗下"
+},
+{
+    "source": "腾讯",
+    "target": "微信支付",
+    "relation": "旗下"
+},
+{
+    "source": "IdeaCellular",
+    "target": "沃达丰",
+    "relation": "合并"
+},
+{
+    "source": "中国联通",
+    "target": "沃云",
+    "relation": "研发"
+},
+{
+    "source": "阿里巴巴",
+    "target": "虾米音乐",
+    "relation": "收购",
+    "timestamp": "2013-01-10"
+},
+{
+    "source": "富士康",
+    "target": "夏普",
+    "relation": "收购",
+    "timestamp": "2016-08-11"
+},
+{
+    "source": "阿里巴巴",
+    "target": "闲鱼",
+    "relation": "旗下"
+},
+{
+    "source": "百度",
+    "target": "小船出海",
+    "relation": "旗下"
+},
+{
+    "source": "夸氪金融",
+    "target": "小金理财",
+    "relation": "出品"
+},
+{
+    "source": "滴滴",
+    "target": "小蓝单车",
+    "relation": "托管",
+    "timestamp": "2018-01-09"
+},
+{
+    "source": "小米金融",
+    "target": "小米贷款",
+    "relation": "发布"
+},
+{
+    "source": "小米",
+    "target": "小米金融",
+    "relation": "旗下"
+},
+{
+    "source": "小米",
+    "target": "小米生态链公司",
+    "relation": "旗下"
+},
+{
+    "source": "小米",
+    "target": "小米直供",
+    "relation": "旗下"
+},
+{
+    "source": "小米",
+    "target": "小米众筹",
+    "relation": "旗下"
+},
+{
+    "source": "猿辅导",
+    "target": "小猿搜题",
+    "relation": "旗下"
+},
+{
+    "source": "新浪",
+    "target": "新浪财经",
+    "relation": "旗下"
+},
+{
+    "source": "企鹅医生",
+    "target": "杏仁医生",
+    "relation": "合并",
+    "timestamp": "2018-08-08"
+},
+{
+    "source": "百度",
+    "target": "熊掌号",
+    "relation": "推出"
+},
+{
+    "source": "本田",
+    "target": "雅阁",
+    "relation": "旗下"
+},
+{
+    "source": "微盟",
+    "target": "雅座",
+    "relation": "收购",
+    "timestamp": "2020-02-20"
+},
+{
+    "source": "百度",
+    "target": "医疗大脑",
+    "relation": "推出"
+},
+{
+    "source": "格力",
+    "target": "银隆",
+    "relation": "子公司"
+},
+{
+    "source": "百度地图",
+    "target": "鹰眼硬件联盟",
+    "relation": "成立"
+},
+{
+    "source": "阿里巴巴",
+    "target": "优酷土豆",
+    "relation": "全资子公司"
+},
+{
+    "source": "网易",
+    "target": "有道云笔记",
+    "relation": "旗下"
+},
+{
+    "source": "小米",
+    "target": "佑米",
+    "relation": "代理商"
+},
+{
+    "source": "腾讯",
+    "target": "阅文集团",
+    "relation": "旗下"
+},
+{
+    "source": "招商局集团",
+    "target": "招商蛇口",
+    "relation": "旗下"
+},
+{
+    "source": "红杉资本",
+    "target": "真格基金",
+    "relation": "创立"
+},
+{
+    "source": "美团",
+    "target": "榛果民宿",
+    "relation": "旗下"
+},
+{
+    "source": "蚂蚁金服",
+    "target": "支付宝",
+    "relation": "旗下"
+},
+{
+    "source": "蚂蚁金服",
+    "target": "芝麻信用",
+    "relation": "旗下"
+},
+{
+    "source": "地震局",
+    "target": "中国地震台网",
+    "relation": "下属"
+},
+{
+    "source": "工信部",
+    "target": "中国信通院",
+    "relation": "下属"
+},
+{
+    "source": "腾讯",
+    "target": "中国音乐集团",
+    "relation": "控制权"
+},
+{
+    "source": "中科招商",
+    "target": "中科乐创",
+    "relation": "旗下"
+},
+{
+    "source": "中石油",
+    "target": "中油瑞飞",
+    "relation": "全资子公司"
+},
+{
+    "source": "中智集团",
+    "target": "中智商展",
+    "relation": "全资子公司"
+},
+{
+    "source": "小米",
+    "target": "紫米",
+    "relation": "收购",
+    "timestamp": "2021-03-01"
+},
+{
+    "source": "3D触控",
+    "target": "3D",
+    "relation": "应用技术"
+},
+{
+    "source": "3D打印",
+    "target": "3D",
+    "relation": "应用技术"
+},
+{
+    "source": "3D地图",
+    "target": "3D",
+    "relation": "应用技术"
+},
+{
+    "source": "3D电视",
+    "target": "3D",
+    "relation": "应用技术"
+},
+{
+    "source": "3D对象分享平台",
+    "target": "3D",
+    "relation": "应用技术"
+},
+{
+    "source": "3D拍照",
+    "target": "3D",
+    "relation": "应用技术"
+},
+{
+    "source": "3D全息影像",
+    "target": "3D",
+    "relation": "应用技术"
+},
+{
+    "source": "3D摄像头",
+    "target": "3D",
+    "relation": "应用技术"
+},
+{
+    "source": "裸眼3D",
+    "target": "3D",
+    "relation": "应用技术"
+},
+{
+    "source": "4K视频",
+    "target": "4K",
+    "relation": "应用技术"
+},
+{
+    "source": "4K电视",
+    "target": "4K",
+    "relation": "应用技术"
+},
+{
+    "source": "AI安全",
+    "target": "AI",
+    "relation": "应用技术"
+},
+{
+    "source": "AI比赛",
+    "target": "AI",
+    "relation": "应用技术"
+},
+{
+    "source": "AI辅助诊断",
+    "target": "AI",
+    "relation": "应用技术"
+},
+{
+    "source": "AI工具",
+    "target": "AI",
+    "relation": "应用技术"
+},
+{
+    "source": "AI机器人",
+    "target": "AI",
+    "relation": "应用技术"
+},
+{
+    "source": "AI汽车",
+    "target": "AI",
+    "relation": "应用技术"
+},
+{
+    "source": "AI设计师",
+    "target": "AI",
+    "relation": "应用技术"
+},
+{
+    "source": "AI芯片",
+    "target": "AI",
+    "relation": "应用技术"
+},
+{
+    "source": "AI医学影像产品",
+    "target": "AI",
+    "relation": "应用技术"
+},
+{
+    "source": "AI应用",
+    "target": "AI",
+    "relation": "应用技术"
+},
+{
+    "source": "AI硬件",
+    "target": "AI",
+    "relation": "应用技术"
+},
+{
+    "source": "AI助手",
+    "target": "AI",
+    "relation": "应用技术"
+},
+{
+    "source": "AI+出版",
+    "target": "AI",
+    "relation": "应用技术"
+},
+{
+    "source": "AR购物",
+    "target": "AR",
+    "relation": "应用技术"
+},
+{
+    "source": "AR营销",
+    "target": "AR",
+    "relation": "应用技术"
+},
+{
+    "source": "AR",
+    "target": "AR",
+    "relation": "应用技术"
+},
+{
+    "source": "电子交易",
+    "target": "电子",
+    "relation": "应用技术"
+},
+{
+    "source": "电子竞技",
+    "target": "电子",
+    "relation": "应用技术"
+},
+{
+    "source": "电子卡包",
+    "target": "电子",
+    "relation": "应用技术"
+},
+{
+    "source": "电子卡券",
+    "target": "电子",
+    "relation": "应用技术"
+},
+{
+    "source": "电子钱包",
+    "target": "电子",
+    "relation": "应用技术"
+},
+{
+    "source": "电子商务",
+    "target": "电子",
+    "relation": "应用技术"
+},
+{
+    "source": "电子围栏",
+    "target": "电子",
+    "relation": "应用技术"
+},
+{
+    "source": "电子游戏",
+    "target": "电子",
+    "relation": "应用技术"
+},
+{
+    "source": "电子证件",
+    "target": "电子",
+    "relation": "应用技术"
+},
+{
+    "source": "电子驾照",
+    "target": "电子",
+    "relation": "应用技术"
+},
+{
+    "source": "ABS云平台",
+    "target": "云",
+    "relation": "应用技术"
+},
+{
+    "source": "阿里云",
+    "target": "云",
+    "relation": "应用技术"
+},
+{
+    "source": "大数据专有云",
+    "target": "云",
+    "relation": "应用技术"
+},
+{
+    "source": "公安云计算",
+    "target": "云",
+    "relation": "应用技术"
+},
+{
+    "source": "考试云",
+    "target": "云",
+    "relation": "应用技术"
+},
+{
+    "source": "企业云服务+金融",
+    "target": "云",
+    "relation": "应用技术"
+},
+{
+    "source": "企业云服务",
+    "target": "云",
+    "relation": "应用技术"
+},
+{
+    "source": "腾讯云工具",
+    "target": "云",
+    "relation": "应用技术"
+},
+{
+    "source": "物流云",
+    "target": "云",
+    "relation": "应用技术"
+},
+{
+    "source": "协作云开放平台",
+    "target": "云",
+    "relation": "应用技术"
+},
+{
+    "source": "远程医疗云",
+    "target": "云",
+    "relation": "应用技术"
+},
+{
+    "source": "云+校园",
+    "target": "云",
+    "relation": "应用技术"
+},
+{
+    "source": "云安全",
+    "target": "云",
+    "relation": "应用技术"
+},
+{
+    "source": "云存储",
+    "target": "云",
+    "relation": "应用技术"
+},
+{
+    "source": "云打印服务",
+    "target": "云",
+    "relation": "应用技术"
+},
+{
+    "source": "云端数据",
+    "target": "云",
+    "relation": "应用技术"
+},
+{
+    "source": "云端数据库服务",
+    "target": "云",
+    "relation": "应用技术"
+},
+{
+    "source": "云端自然语言处理功能",
+    "target": "云",
+    "relation": "应用技术"
+},
+{
+    "source": "云访问服务",
+    "target": "云",
+    "relation": "应用技术"
+},
+{
+    "source": "云服务",
+    "target": "云",
+    "relation": "应用技术"
+},
+{
+    "source": "云服务器",
+    "target": "云",
+    "relation": "应用技术"
+},
+{
+    "source": "云服务器矩阵",
+    "target": "云",
+    "relation": "应用技术"
+},
+{
+    "source": "云服务生态",
+    "target": "云",
+    "relation": "应用技术"
+},
+{
+    "source": "云计算",
+    "target": "云",
+    "relation": "应用技术"
+},
+{
+    "source": "云计算平台",
+    "target": "云",
+    "relation": "应用技术"
+},
+{
+    "source": "云矩阵",
+    "target": "云",
+    "relation": "应用技术"
+},
+{
+    "source": "云矩阵战略",
+    "target": "云",
+    "relation": "应用技术"
+},
+{
+    "source": "云客服",
+    "target": "云",
+    "relation": "应用技术"
+},
+{
+    "source": "云盘",
+    "target": "云",
+    "relation": "应用技术"
+},
+{
+    "source": "云栖大会",
+    "target": "云",
+    "relation": "应用技术"
+},
+{
+    "source": "云数据库产品",
+    "target": "云",
+    "relation": "应用技术"
+},
+{
+    "source": "云数据中心",
+    "target": "云",
+    "relation": "应用技术"
+},
+{
+    "source": "云搜",
+    "target": "云",
+    "relation": "应用技术"
+},
+{
+    "source": "云硬盘",
+    "target": "云",
+    "relation": "应用技术"
+},
+{
+    "source": "云自然语言API",
+    "target": "云",
+    "relation": "应用技术"
+},
+{
+    "source": "智能云",
+    "target": "云",
+    "relation": "应用技术"
+},
+{
+    "source": "蓝牙功能",
+    "target": "蓝牙",
+    "relation": "应用技术"
+},
+{
+    "source": "蓝牙通话",
+    "target": "蓝牙",
+    "relation": "应用技术"
+},
+{
+    "source": "蓝牙音箱",
+    "target": "蓝牙",
+    "relation": "应用技术"
+},
+{
+    "source": "蓝牙传感器",
+    "target": "蓝牙",
+    "relation": "应用技术"
+},
+{
+    "source": "量子通信技术",
+    "target": "量子",
+    "relation": "应用技术"
+},
+{
+    "source": "量子计算",
+    "target": "量子",
+    "relation": "应用技术"
+},
+{
+    "source": "区块链医疗",
+    "target": "区块链",
+    "relation": "应用技术"
+},
+{
+    "source": "人脸识别点餐",
+    "target": "图像识别",
+    "relation": "应用技术"
+},
+{
+    "source": "人脸识别闸机",
+    "target": "图像识别",
+    "relation": "应用技术"
+},
+{
+    "source": "人像模式",
+    "target": "图像识别",
+    "relation": "应用技术"
+},
+{
+    "source": "刷脸登录",
+    "target": "图像识别",
+    "relation": "应用技术"
+},
+{
+    "source": "刷脸支付",
+    "target": "图像识别",
+    "relation": "应用技术"
+},
+{
+    "source": "图像识别",
+    "target": "图像识别",
+    "relation": "应用技术"
+},
+{
+    "source": "人脸识别",
+    "target": "图像识别",
+    "relation": "应用技术"
+},
+{
+    "source": "扫码取款",
+    "target": "扫码",
+    "relation": "应用技术"
+},
+{
+    "source": "扫码退税",
+    "target": "扫码",
+    "relation": "应用技术"
+},
+{
+    "source": "扫码支付",
+    "target": "扫码",
+    "relation": "应用技术"
+},
+{
+    "source": "扫码功能",
+    "target": "扫码",
+    "relation": "应用技术"
+},
+{
+    "source": "语音导航",
+    "target": "自然语言处理",
+    "relation": "应用技术"
+},
+{
+    "source": "语音点餐",
+    "target": "自然语言处理",
+    "relation": "应用技术"
+},
+{
+    "source": "语音分发",
+    "target": "自然语言处理",
+    "relation": "应用技术"
+},
+{
+    "source": "语音购物",
+    "target": "自然语言处理",
+    "relation": "应用技术"
+},
+{
+    "source": "语音技术接口",
+    "target": "自然语言处理",
+    "relation": "应用技术"
+},
+{
+    "source": "语音开放平台",
+    "target": "自然语言处理",
+    "relation": "应用技术"
+},
+{
+    "source": "语音买单",
+    "target": "自然语言处理",
+    "relation": "应用技术"
+},
+{
+    "source": "语音上网设备",
+    "target": "自然语言处理",
+    "relation": "应用技术"
+},
+{
+    "source": "语音社交",
+    "target": "自然语言处理",
+    "relation": "应用技术"
+},
+{
+    "source": "语音识别",
+    "target": "自然语言处理",
+    "relation": "应用技术"
+},
+{
+    "source": "语音输入",
+    "target": "自然语言处理",
+    "relation": "应用技术"
+},
+{
+    "source": "语音通话",
+    "target": "自然语言处理",
+    "relation": "应用技术"
+},
+{
+    "source": "语音问答产品",
+    "target": "自然语言处理",
+    "relation": "应用技术"
+},
+{
+    "source": "语音远程查询车辆状态服",
+    "target": "自然语言处理",
+    "relation": "应用技术"
+},
+{
+    "source": "语音指令视觉化",
+    "target": "自然语言处理",
+    "relation": "应用技术"
+},
+{
+    "source": "语音助手",
+    "target": "自然语言处理",
+    "relation": "应用技术"
+},
+{
+    "source": "云端自然语言处理功能",
+    "target": "自然语言处理",
+    "relation": "应用技术"
+},
+{
+    "source": "云自然语言API",
+    "target": "自然语言处理",
+    "relation": "应用技术"
+},
+{
+    "source": "智能语音产品",
+    "target": "自然语言处理",
+    "relation": "应用技术"
+},
+{
+    "source": "自然语言处理",
+    "target": "自然语言处理",
+    "relation": "应用技术"
+},
+{
+    "source": "语境理解",
+    "target": "自然语言处理",
+    "relation": "应用技术"
+},
+{
+    "source": "智能按钮",
+    "target": "智能",
+    "relation": "应用技术"
+},
+{
+    "source": "智能白板",
+    "target": "智能",
+    "relation": "应用技术"
+},
+{
+    "source": "智能报亭",
+    "target": "智能",
+    "relation": "应用技术"
+},
+{
+    "source": "智能表带",
+    "target": "智能",
+    "relation": "应用技术"
+},
+{
+    "source": "智能冰箱",
+    "target": "智能",
+    "relation": "应用技术"
+},
+{
+    "source": "智能车",
+    "target": "智能",
+    "relation": "应用技术"
+},
+{
+    "source": "智能船舶",
+    "target": "智能",
+    "relation": "应用技术"
+},
+{
+    "source": "智能电池",
+    "target": "智能",
+    "relation": "应用技术"
+},
+{
+    "source": "智能电视",
+    "target": "智能",
+    "relation": "应用技术"
+},
+{
+    "source": "智能服装",
+    "target": "智能",
+    "relation": "应用技术"
+},
+{
+    "source": "智能购物",
+    "target": "智能",
+    "relation": "应用技术"
+},
+{
+    "source": "智能估价神器",
+    "target": "智能",
+    "relation": "应用技术"
+},
+{
+    "source": "智能互联网络产品",
+    "target": "智能",
+    "relation": "应用技术"
+},
+{
+    "source": "智能化变革",
+    "target": "智能",
+    "relation": "应用技术"
+},
+{
+    "source": "智能化服务",
+    "target": "智能",
+    "relation": "应用技术"
+},
+{
+    "source": "智能回复功能",
+    "target": "智能",
+    "relation": "应用技术"
+},
+{
+    "source": "智能货柜",
+    "target": "智能",
+    "relation": "应用技术"
+},
+{
+    "source": "智能加油站",
+    "target": "智能",
+    "relation": "应用技术"
+},
+{
+    "source": "智能家电",
+    "target": "智能",
+    "relation": "应用技术"
+},
+{
+    "source": "智能戒指",
+    "target": "智能",
+    "relation": "应用技术"
+},
+{
+    "source": "智能金融",
+    "target": "智能",
+    "relation": "应用技术"
+},
+{
+    "source": "智能客服",
+    "target": "智能",
+    "relation": "应用技术"
+},
+{
+    "source": "智能配送中心",
+    "target": "智能",
+    "relation": "应用技术"
+},
+{
+    "source": "智能屏幕",
+    "target": "智能",
+    "relation": "应用技术"
+},
+{
+    "source": "智能汽车",
+    "target": "智能",
+    "relation": "应用技术"
+},
+{
+    "source": "智能摄像头",
+    "target": "智能",
+    "relation": "应用技术"
+},
+{
+    "source": "智能视频播放系统",
+    "target": "智能",
+    "relation": "应用技术"
+},
+{
+    "source": "智能手表",
+    "target": "智能",
+    "relation": "应用技术"
+},
+{
+    "source": "智能手环",
+    "target": "智能",
+    "relation": "应用技术"
+},
+{
+    "source": "智能手机",
+    "target": "智能",
+    "relation": "应用技术"
+},
+{
+    "source": "智能手镯",
+    "target": "智能",
+    "relation": "应用技术"
+},
+{
+    "source": "智能锁",
+    "target": "智能",
+    "relation": "应用技术"
+},
+{
+    "source": "智能头盔",
+    "target": "智能",
+    "relation": "应用技术"
+},
+{
+    "source": "智能投顾产品",
+    "target": "智能",
+    "relation": "应用技术"
+},
+{
+    "source": "智能投资",
+    "target": "智能",
+    "relation": "应用技术"
+},
+{
+    "source": "智能网联",
+    "target": "智能",
+    "relation": "应用技术"
+},
+{
+    "source": "智能无线路由",
+    "target": "智能",
+    "relation": "应用技术"
+},
+{
+    "source": "智能物流体系",
+    "target": "智能",
+    "relation": "应用技术"
+},
+{
+    "source": "智能纤维",
+    "target": "智能",
+    "relation": "应用技术"
+},
+{
+    "source": "智能信息推送",
+    "target": "智能",
+    "relation": "应用技术"
+},
+{
+    "source": "智能行业",
+    "target": "智能",
+    "relation": "应用技术"
+},
+{
+    "source": "智能血压计",
+    "target": "智能",
+    "relation": "应用技术"
+},
+{
+    "source": "智能眼镜",
+    "target": "智能",
+    "relation": "应用技术"
+},
+{
+    "source": "智能扬声器",
+    "target": "智能",
+    "relation": "应用技术"
+},
+{
+    "source": "智能衣物",
+    "target": "智能",
+    "relation": "应用技术"
+},
+{
+    "source": "智能医疗硬件",
+    "target": "智能",
+    "relation": "应用技术"
+},
+{
+    "source": "智能音箱",
+    "target": "智能",
+    "relation": "应用技术"
+},
+{
+    "source": "智能银行",
+    "target": "智能",
+    "relation": "应用技术"
+},
+{
+    "source": "智能营销",
+    "target": "智能",
+    "relation": "应用技术"
+},
+{
+    "source": "智能硬件",
+    "target": "智能",
+    "relation": "应用技术"
+},
+{
+    "source": "智能语音产品",
+    "target": "智能",
+    "relation": "应用技术"
+},
+{
+    "source": "智能云",
+    "target": "智能",
+    "relation": "应用技术"
+},
+{
+    "source": "智能制造",
+    "target": "智能",
+    "relation": "应用技术"
+},
+{
+    "source": "智能装备",
+    "target": "智能",
+    "relation": "应用技术"
+},
+{
+    "source": "智能POS机",
+    "target": "智能",
+    "relation": "应用技术"
+},
+{
+    "source": "智慧餐厅",
+    "target": "智慧",
+    "relation": "应用技术"
+},
+{
+    "source": "智慧城市",
+    "target": "智慧",
+    "relation": "应用技术"
+},
+{
+    "source": "智慧出行",
+    "target": "智慧",
+    "relation": "应用技术"
+},
+{
+    "source": "智慧店铺",
+    "target": "智慧",
+    "relation": "应用技术"
+},
+{
+    "source": "智慧法院",
+    "target": "智慧",
+    "relation": "应用技术"
+},
+{
+    "source": "智慧供应链",
+    "target": "智慧",
+    "relation": "应用技术"
+},
+{
+    "source": "智慧机场",
+    "target": "智慧",
+    "relation": "应用技术"
+},
+{
+    "source": "智慧家居",
+    "target": "智慧",
+    "relation": "应用技术"
+},
+{
+    "source": "智慧健康",
+    "target": "智慧",
+    "relation": "应用技术"
+},
+{
+    "source": "智慧交通",
+    "target": "智慧",
+    "relation": "应用技术"
+},
+{
+    "source": "智慧景区",
+    "target": "智慧",
+    "relation": "应用技术"
+},
+{
+    "source": "智慧酒店",
+    "target": "智慧",
+    "relation": "应用技术"
+},
+{
+    "source": "智慧美业",
+    "target": "智慧",
+    "relation": "应用技术"
+},
+{
+    "source": "智慧汽车",
+    "target": "智慧",
+    "relation": "应用技术"
+},
+{
+    "source": "智慧社区",
+    "target": "智慧",
+    "relation": "应用技术"
+},
+{
+    "source": "智慧生活体验店",
+    "target": "智慧",
+    "relation": "应用技术"
+},
+{
+    "source": "智慧停车",
+    "target": "智慧",
+    "relation": "应用技术"
+},
+{
+    "source": "智慧物流",
+    "target": "智慧",
+    "relation": "应用技术"
+},
+{
+    "source": "智慧校园",
+    "target": "智慧",
+    "relation": "应用技术"
+},
+{
+    "source": "智慧养老",
+    "target": "智慧",
+    "relation": "应用技术"
+},
+{
+    "source": "智慧医疗",
+    "target": "智慧",
+    "relation": "应用技术"
+},
+{
+    "source": "智慧银行",
+    "target": "智慧",
+    "relation": "应用技术"
+},
+{
+    "source": "智慧影院",
+    "target": "智慧",
+    "relation": "应用技术"
+},
+{
+    "source": "智慧运动",
+    "target": "智慧",
+    "relation": "应用技术"
+},
+{
+    "source": "智慧政务",
+    "target": "智慧",
+    "relation": "应用技术"
+},
+{
+    "source": "智慧办公",
+    "target": "智慧",
+    "relation": "应用技术"
+},
+{
+    "source": "互联网+",
+    "target": "互联网+",
+    "relation": "应用技术"
+},
+{
+    "source": "互联网+大学",
+    "target": "互联网+",
+    "relation": "应用技术"
+},
+{
+    "source": "互联网+金融",
+    "target": "互联网+",
+    "relation": "应用技术"
+},
+{
+    "source": "互联网+金融+旅游",
+    "target": "互联网+",
+    "relation": "应用技术"
+},
+{
+    "source": "互联网+能源",
+    "target": "互联网+",
+    "relation": "应用技术"
+},
+{
+    "source": "互联网+生态",
+    "target": "互联网+",
+    "relation": "应用技术"
+},
+{
+    "source": "互联网服务",
+    "target": "互联网+",
+    "relation": "应用技术"
+},
+{
+    "source": "互联网技能认证",
+    "target": "互联网+",
+    "relation": "应用技术"
+},
+{
+    "source": "互联网汽车",
+    "target": "互联网+",
+    "relation": "应用技术"
+},
+{
+    "source": "互联网汽车拉力赛",
+    "target": "互联网+",
+    "relation": "应用技术"
+},
+{
+    "source": "互联网业务",
+    "target": "互联网+",
+    "relation": "应用技术"
+},
+{
+    "source": "互联网医疗",
+    "target": "互联网+",
+    "relation": "应用技术"
+},
+{
+    "source": "互联网医院",
+    "target": "互联网+",
+    "relation": "应用技术"
+},
+{
+    "source": "互联网银行",
+    "target": "互联网+",
+    "relation": "应用技术"
+},
+{
+    "source": "互联网影视娱乐生态",
+    "target": "互联网+",
+    "relation": "应用技术"
+},
+{
+    "source": "互联网诊疗平台",
+    "target": "互联网+",
+    "relation": "应用技术"
+},
+{
+    "source": "“觅乐”行动",
+    "target": "娱乐圈",
+    "relation": "应用领域"
+},
+{
+    "source": "春藤电影工坊",
+    "target": "娱乐圈",
+    "relation": "应用领域"
+},
+{
+    "source": "电视节目",
+    "target": "娱乐圈",
+    "relation": "应用领域"
+},
+{
+    "source": "电影",
+    "target": "娱乐圈",
+    "relation": "应用领域"
+},
+{
+    "source": "电影产业",
+    "target": "娱乐圈",
+    "relation": "应用领域"
+},
+{
+    "source": "短视频",
+    "target": "娱乐圈",
+    "relation": "应用领域"
+},
+{
+    "source": "泛娱乐",
+    "target": "娱乐圈",
+    "relation": "应用领域"
+},
+{
+    "source": "华语音乐平台",
+    "target": "娱乐圈",
+    "relation": "应用领域"
+},
+{
+    "source": "互联网影视娱乐生态",
+    "target": "娱乐圈",
+    "relation": "应用领域"
+},
+{
+    "source": "媒体共赢生态圈",
+    "target": "娱乐圈",
+    "relation": "应用领域"
+},
+{
+    "source": "美剧",
+    "target": "娱乐圈",
+    "relation": "应用领域"
+},
+{
+    "source": "明星",
+    "target": "娱乐圈",
+    "relation": "应用领域"
+},
+{
+    "source": "限韩令",
+    "target": "娱乐圈",
+    "relation": "应用领域"
+},
+{
+    "source": "香港影视展",
+    "target": "娱乐圈",
+    "relation": "应用领域"
+},
+{
+    "source": "艺人经纪",
+    "target": "娱乐圈",
+    "relation": "应用领域"
+},
+{
+    "source": "音乐节",
+    "target": "娱乐圈",
+    "relation": "应用领域"
+},
+{
+    "source": "音乐人",
+    "target": "娱乐圈",
+    "relation": "应用领域"
+},
+{
+    "source": "影视项目",
+    "target": "娱乐圈",
+    "relation": "应用领域"
+},
+{
+    "source": "影视行业",
+    "target": "娱乐圈",
+    "relation": "应用领域"
+},
+{
+    "source": "娱乐频道",
+    "target": "娱乐圈",
+    "relation": "应用领域"
+},
+{
+    "source": "真人秀",
+    "target": "娱乐圈",
+    "relation": "应用领域"
+},
+{
+    "source": "3D地图",
+    "target": "出行",
+    "relation": "应用领域"
+},
+{
+    "source": "城市出行",
+    "target": "出行",
+    "relation": "应用领域"
+},
+{
+    "source": "乘车码",
+    "target": "出行",
+    "relation": "应用领域"
+},
+{
+    "source": "出行旅游",
+    "target": "出行",
+    "relation": "应用领域"
+},
+{
+    "source": "出行服务",
+    "target": "出行",
+    "relation": "应用领域"
+},
+{
+    "source": "出行预测服务",
+    "target": "出行",
+    "relation": "应用领域"
+},
+{
+    "source": "出行服务",
+    "target": "出行",
+    "relation": "应用领域"
+},
+{
+    "source": "打车服务",
+    "target": "出行",
+    "relation": "应用领域"
+},
+{
+    "source": "导航服务",
+    "target": "出行",
+    "relation": "应用领域"
+},
+{
+    "source": "地铁观影",
+    "target": "出行",
+    "relation": "应用领域"
+},
+{
+    "source": "地铁支付",
+    "target": "出行",
+    "relation": "应用领域"
+},
+{
+    "source": "地图服务",
+    "target": "出行",
+    "relation": "应用领域"
+},
+{
+    "source": "电动车",
+    "target": "出行",
+    "relation": "应用领域"
+},
+{
+    "source": "电动车导航",
+    "target": "出行",
+    "relation": "应用领域"
+},
+{
+    "source": "定位服务",
+    "target": "出行",
+    "relation": "应用领域"
+},
+{
+    "source": "高精导航",
+    "target": "出行",
+    "relation": "应用领域"
+},
+{
+    "source": "高精地图",
+    "target": "出行",
+    "relation": "应用领域"
+},
+{
+    "source": "高速收费",
+    "target": "出行",
+    "relation": "应用领域"
+},
+{
+    "source": "高铁",
+    "target": "出行",
+    "relation": "应用领域"
+},
+{
+    "source": "公共试乘服务",
+    "target": "出行",
+    "relation": "应用领域"
+},
+{
+    "source": "公交服务",
+    "target": "出行",
+    "relation": "应用领域"
+},
+{
+    "source": "共享出行",
+    "target": "出行",
+    "relation": "应用领域"
+},
+{
+    "source": "共享单车",
+    "target": "出行",
+    "relation": "应用领域"
+},
+{
+    "source": "谷歌地图",
+    "target": "出行",
+    "relation": "应用领域"
+},
+{
+    "source": "海外地图",
+    "target": "出行",
+    "relation": "应用领域"
+},
+{
+    "source": "航班信息服务",
+    "target": "出行",
+    "relation": "应用领域"
+},
+{
+    "source": "机票价格变动提醒功能",
+    "target": "出行",
+    "relation": "应用领域"
+},
+{
+    "source": "机票搜索软件",
+    "target": "出行",
+    "relation": "应用领域"
+},
+{
+    "source": "积水地图",
+    "target": "出行",
+    "relation": "应用领域"
+},
+{
+    "source": "极地旅游",
+    "target": "出行",
+    "relation": "应用领域"
+},
+{
+    "source": "假期出行服务",
+    "target": "出行",
+    "relation": "应用领域"
+},
+{
+    "source": "驾驶模式",
+    "target": "出行",
+    "relation": "应用领域"
+},
+{
+    "source": "驾驶软件",
+    "target": "出行",
+    "relation": "应用领域"
+},
+{
+    "source": "交通工具",
+    "target": "出行",
+    "relation": "应用领域"
+},
+{
+    "source": "交通监管服务",
+    "target": "出行",
+    "relation": "应用领域"
+},
+{
+    "source": "境外租车",
+    "target": "出行",
+    "relation": "应用领域"
+},
+{
+    "source": "酒店住宿",
+    "target": "出行",
+    "relation": "应用领域"
+},
+{
+    "source": "聚会专车",
+    "target": "出行",
+    "relation": "应用领域"
+},
+{
+    "source": "旅游打包产品搜索",
+    "target": "出行",
+    "relation": "应用领域"
+},
+{
+    "source": "旅游服务",
+    "target": "出行",
+    "relation": "应用领域"
+},
+{
+    "source": "旅游内容领域",
+    "target": "出行",
+    "relation": "应用领域"
+},
+{
+    "source": "绿色出行",
+    "target": "出行",
+    "relation": "应用领域"
+},
+{
+    "source": "年味地图",
+    "target": "出行",
+    "relation": "应用领域"
+},
+{
+    "source": "票价",
+    "target": "出行",
+    "relation": "应用领域"
+},
+{
+    "source": "拼车服务",
+    "target": "出行",
+    "relation": "应用领域"
+},
+{
+    "source": "骑行导航",
+    "target": "出行",
+    "relation": "应用领域"
+},
+{
+    "source": "企业公务出行",
+    "target": "出行",
+    "relation": "应用领域"
+},
+{
+    "source": "轻导航",
+    "target": "出行",
+    "relation": "应用领域"
+},
+{
+    "source": "人工智能地图",
+    "target": "出行",
+    "relation": "应用领域"
+},
+{
+    "source": "商务出行",
+    "target": "出行",
+    "relation": "应用领域"
+},
+{
+    "source": "实时路况",
+    "target": "出行",
+    "relation": "应用领域"
+},
+{
+    "source": "室内导航",
+    "target": "出行",
+    "relation": "应用领域"
+},
+{
+    "source": "顺风车服务",
+    "target": "出行",
+    "relation": "应用领域"
+},
+{
+    "source": "违章地图",
+    "target": "出行",
+    "relation": "应用领域"
+},
+{
+    "source": "寻厕功能",
+    "target": "出行",
+    "relation": "应用领域"
+},
+{
+    "source": "寻找充电站服务",
+    "target": "出行",
+    "relation": "应用领域"
+},
+{
+    "source": "语音导航",
+    "target": "出行",
+    "relation": "应用领域"
+},
+{
+    "source": "智慧出行",
+    "target": "出行",
+    "relation": "应用领域"
+},
+{
+    "source": "智慧交通",
+    "target": "出行",
+    "relation": "应用领域"
+},
+{
+    "source": "自动辅助驾驶功能",
+    "target": "出行",
+    "relation": "应用领域"
+},
+{
+    "source": "自动驾驶",
+    "target": "出行",
+    "relation": "应用领域"
+},
+{
+    "source": "自动驾驶共享出行",
+    "target": "出行",
+    "relation": "应用领域"
+},
+{
+    "source": "自动驾驶货车",
+    "target": "出行",
+    "relation": "应用领域"
+},
+{
+    "source": "自动驾驶卡车",
+    "target": "出行",
+    "relation": "应用领域"
+},
+{
+    "source": "自动驾驶汽车",
+    "target": "出行",
+    "relation": "应用领域"
+},
+{
+    "source": "自动驾驶通勤车",
+    "target": "出行",
+    "relation": "应用领域"
+},
+{
+    "source": "自动驾驶芯片",
+    "target": "出行",
+    "relation": "应用领域"
+},
+{
+    "source": "自行车导航",
+    "target": "出行",
+    "relation": "应用领域"
+},
+{
+    "source": "自行车配件",
+    "target": "出行",
+    "relation": "应用领域"
+},
+{
+    "source": "租车服务",
+    "target": "出行",
+    "relation": "应用领域"
+},
+{
+    "source": "“卡思中国口腔名医录”",
+    "target": "医疗",
+    "relation": "应用领域"
+},
+{
+    "source": "AI辅助诊断",
+    "target": "医疗",
+    "relation": "应用领域"
+},
+{
+    "source": "AI医学影像产品",
+    "target": "医疗",
+    "relation": "应用领域"
+},
+{
+    "source": "海外医院信息",
+    "target": "医疗",
+    "relation": "应用领域"
+},
+{
+    "source": "互联网医疗",
+    "target": "医疗",
+    "relation": "应用领域"
+},
+{
+    "source": "互联网医院",
+    "target": "医疗",
+    "relation": "应用领域"
+},
+{
+    "source": "互联网诊疗平台",
+    "target": "医疗",
+    "relation": "应用领域"
+},
+{
+    "source": "疾病检测",
+    "target": "医疗",
+    "relation": "应用领域"
+},
+{
+    "source": "健康产品",
+    "target": "医疗",
+    "relation": "应用领域"
+},
+{
+    "source": "健康服务",
+    "target": "医疗",
+    "relation": "应用领域"
+},
+{
+    "source": "手机医疗设备",
+    "target": "医疗",
+    "relation": "应用领域"
+},
+{
+    "source": "私人医生业务",
+    "target": "医疗",
+    "relation": "应用领域"
+},
+{
+    "source": "送药服务",
+    "target": "医疗",
+    "relation": "应用领域"
+},
+{
+    "source": "网络医院",
+    "target": "医疗",
+    "relation": "应用领域"
+},
+{
+    "source": "线下诊所",
+    "target": "医疗",
+    "relation": "应用领域"
+},
+{
+    "source": "信用就医",
+    "target": "医疗",
+    "relation": "应用领域"
+},
+{
+    "source": "医保",
+    "target": "医疗",
+    "relation": "应用领域"
+},
+{
+    "source": "医疗大脑",
+    "target": "医疗",
+    "relation": "应用领域"
+},
+{
+    "source": "医疗服务",
+    "target": "医疗",
+    "relation": "应用领域"
+},
+{
+    "source": "医疗服务平台",
+    "target": "医疗",
+    "relation": "应用领域"
+},
+{
+    "source": "医疗广告",
+    "target": "医疗",
+    "relation": "应用领域"
+},
+{
+    "source": "医疗机器人",
+    "target": "医疗",
+    "relation": "应用领域"
+},
+{
+    "source": "医疗健康技术",
+    "target": "医疗",
+    "relation": "应用领域"
+},
+{
+    "source": "医疗领域",
+    "target": "医疗",
+    "relation": "应用领域"
+},
+{
+    "source": "医疗设备",
+    "target": "医疗",
+    "relation": "应用领域"
+},
+{
+    "source": "医疗应用",
+    "target": "医疗",
+    "relation": "应用领域"
+},
+{
+    "source": "医疗战略",
+    "target": "医疗",
+    "relation": "应用领域"
+},
+{
+    "source": "医学科普",
+    "target": "医疗",
+    "relation": "应用领域"
+},
+{
+    "source": "医学研究",
+    "target": "医疗",
+    "relation": "应用领域"
+},
+{
+    "source": "医药服务",
+    "target": "医疗",
+    "relation": "应用领域"
+},
+{
+    "source": "医药运输",
+    "target": "医疗",
+    "relation": "应用领域"
+},
+{
+    "source": "移动医疗",
+    "target": "医疗",
+    "relation": "应用领域"
+},
+{
+    "source": "远程医疗云",
+    "target": "医疗",
+    "relation": "应用领域"
+},
+{
+    "source": "约克牙医",
+    "target": "医疗",
+    "relation": "应用领域"
+},
+{
+    "source": "智慧健康",
+    "target": "医疗",
+    "relation": "应用领域"
+},
+{
+    "source": "智慧医疗",
+    "target": "医疗",
+    "relation": "应用领域"
+},
+{
+    "source": "智能血压计",
+    "target": "医疗",
+    "relation": "应用领域"
+},
+{
+    "source": "智能医疗硬件",
+    "target": "医疗",
+    "relation": "应用领域"
+},
+{
+    "source": "“漂流箱”",
+    "target": "物流",
+    "relation": "应用领域"
+},
+{
+    "source": "“极致服务计划”",
+    "target": "物流",
+    "relation": "应用领域"
+},
+{
+    "source": "“物流+支付”体系",
+    "target": "物流",
+    "relation": "应用领域"
+},
+{
+    "source": "O2O物流模式",
+    "target": "物流",
+    "relation": "应用领域"
+},
+{
+    "source": "港澳直送",
+    "target": "物流",
+    "relation": "应用领域"
+},
+{
+    "source": "集装箱海运市场",
+    "target": "物流",
+    "relation": "应用领域"
+},
+{
+    "source": "可视化运输",
+    "target": "物流",
+    "relation": "应用领域"
+},
+{
+    "source": "跨境物流",
+    "target": "物流",
+    "relation": "应用领域"
+},
+{
+    "source": "快递安全",
+    "target": "物流",
+    "relation": "应用领域"
+},
+{
+    "source": "快递费",
+    "target": "物流",
+    "relation": "应用领域"
+},
+{
+    "source": "配送费",
+    "target": "物流",
+    "relation": "应用领域"
+},
+{
+    "source": "配送服务",
+    "target": "物流",
+    "relation": "应用领域"
+},
+{
+    "source": "配送机器人",
+    "target": "物流",
+    "relation": "应用领域"
+},
+{
+    "source": "配送中心",
+    "target": "物流",
+    "relation": "应用领域"
+},
+{
+    "source": "全球分销",
+    "target": "物流",
+    "relation": "应用领域"
+},
+{
+    "source": "全球物流网络",
+    "target": "物流",
+    "relation": "应用领域"
+},
+{
+    "source": "生鲜运输",
+    "target": "物流",
+    "relation": "应用领域"
+},
+{
+    "source": "送药服务",
+    "target": "物流",
+    "relation": "应用领域"
+},
+{
+    "source": "同城物流",
+    "target": "物流",
+    "relation": "应用领域"
+},
+{
+    "source": "无人机配送",
+    "target": "物流",
+    "relation": "应用领域"
+},
+{
+    "source": "无人配送服务",
+    "target": "物流",
+    "relation": "应用领域"
+},
+{
+    "source": "物流仓储",
+    "target": "物流",
+    "relation": "应用领域"
+},
+{
+    "source": "物流服务",
+    "target": "物流",
+    "relation": "应用领域"
+},
+{
+    "source": "物流数据开放平台",
+    "target": "物流",
+    "relation": "应用领域"
+},
+{
+    "source": "物流云",
+    "target": "物流",
+    "relation": "应用领域"
+},
+{
+    "source": "物流运输",
+    "target": "物流",
+    "relation": "应用领域"
+},
+{
+    "source": "物流中心",
+    "target": "物流",
+    "relation": "应用领域"
+},
+{
+    "source": "医药运输",
+    "target": "物流",
+    "relation": "应用领域"
+},
+{
+    "source": "智慧物流",
+    "target": "物流",
+    "relation": "应用领域"
+},
+{
+    "source": "智能配送中心",
+    "target": "物流",
+    "relation": "应用领域"
+},
+{
+    "source": "ApplePay",
+    "target": "苹果",
+    "relation": "应用领域"
+},
+{
+    "source": "AppStore",
+    "target": "苹果",
+    "relation": "应用领域"
+},
+{
+    "source": "HomeKit",
+    "target": "苹果",
+    "relation": "应用领域"
+},
+{
+    "source": "MFi认证标准",
+    "target": "苹果",
+    "relation": "应用领域"
+},
+{
+    "source": "Siri",
+    "target": "苹果",
+    "relation": "应用领域"
+},
+{
+    "source": "苹果",
+    "target": "苹果",
+    "relation": "应用领域"
+},
+{
+    "source": "ApplePay",
+    "target": "支付",
+    "relation": "应用领域"
+},
+{
+    "source": "“物流+支付”体系",
+    "target": "支付",
+    "relation": "应用领域"
+},
+{
+    "source": "付费群",
+    "target": "支付",
+    "relation": "应用领域"
+},
+{
+    "source": "付款码",
+    "target": "支付",
+    "relation": "应用领域"
+},
+{
+    "source": "呼叫支付",
+    "target": "支付",
+    "relation": "应用领域"
+},
+{
+    "source": "话费支付市场",
+    "target": "支付",
+    "relation": "应用领域"
+},
+{
+    "source": "混合支付",
+    "target": "支付",
+    "relation": "应用领域"
+},
+{
+    "source": "加油站支付",
+    "target": "支付",
+    "relation": "应用领域"
+},
+{
+    "source": "聚合支付",
+    "target": "支付",
+    "relation": "应用领域"
+},
+{
+    "source": "空付服务",
+    "target": "支付",
+    "relation": "应用领域"
+},
+{
+    "source": "跨境支付",
+    "target": "支付",
+    "relation": "应用领域"
+},
+{
+    "source": "全球转账业务",
+    "target": "支付",
+    "relation": "应用领域"
+},
+{
+    "source": "群支付功能",
+    "target": "支付",
+    "relation": "应用领域"
+},
+{
+    "source": "扫码支付",
+    "target": "支付",
+    "relation": "应用领域"
+},
+{
+    "source": "生活缴费",
+    "target": "支付",
+    "relation": "应用领域"
+},
+{
+    "source": "收款服务",
+    "target": "支付",
+    "relation": "应用领域"
+},
+{
+    "source": "收款码",
+    "target": "支付",
+    "relation": "应用领域"
+},
+{
+    "source": "手表支付功能",
+    "target": "支付",
+    "relation": "应用领域"
+},
+{
+    "source": "数字货币网络支付",
+    "target": "支付",
+    "relation": "应用领域"
+},
+{
+    "source": "刷脸支付",
+    "target": "支付",
+    "relation": "应用领域"
+},
+{
+    "source": "网络支付",
+    "target": "支付",
+    "relation": "应用领域"
+},
+{
+    "source": "微信支付",
+    "target": "支付",
+    "relation": "应用领域"
+},
+{
+    "source": "无感支付",
+    "target": "支付",
+    "relation": "应用领域"
+},
+{
+    "source": "现金代付",
+    "target": "支付",
+    "relation": "应用领域"
+},
+{
+    "source": "线下支付奖励",
+    "target": "支付",
+    "relation": "应用领域"
+},
+{
+    "source": "移动支付",
+    "target": "支付",
+    "relation": "应用领域"
+},
+{
+    "source": "语音买单",
+    "target": "支付",
+    "relation": "应用领域"
+},
+{
+    "source": "月结支付",
+    "target": "支付",
+    "relation": "应用领域"
+},
+{
+    "source": "支付服务",
+    "target": "支付",
+    "relation": "应用领域"
+},
+{
+    "source": "支付优惠",
+    "target": "支付",
+    "relation": "应用领域"
+},
+{
+    "source": "聚屏",
+    "target": "百度",
+    "relation": "应用领域"
+},
+{
+    "source": "闪投",
+    "target": "百度",
+    "relation": "应用领域"
+},
+{
+    "source": "搜索+Feed",
+    "target": "百度",
+    "relation": "应用领域"
+},
+{
+    "source": "GoogleNow",
+    "target": "谷歌",
+    "relation": "应用领域"
+},
+{
+    "source": "GooglePlay",
+    "target": "谷歌",
+    "relation": "应用领域"
+},
+{
+    "source": "触碰激活助手功能",
+    "target": "谷歌",
+    "relation": "应用领域"
+},
+{
+    "source": "谷歌地图",
+    "target": "谷歌",
+    "relation": "应用领域"
+},
+{
+    "source": "空间音频",
+    "target": "谷歌",
+    "relation": "应用领域"
+},
+{
+    "source": "BabyQ",
+    "target": "腾讯",
+    "relation": "应用领域"
+},
+{
+    "source": "QQ群机器人服务",
+    "target": "腾讯",
+    "relation": "应用领域"
+},
+{
+    "source": "QQ群认证",
+    "target": "腾讯",
+    "relation": "应用领域"
+},
+{
+    "source": "QQ小冰",
+    "target": "腾讯",
+    "relation": "应用领域"
+},
+{
+    "source": "TIM",
+    "target": "腾讯",
+    "relation": "应用领域"
+},
+{
+    "source": "春藤电影工坊",
+    "target": "腾讯",
+    "relation": "应用领域"
+},
+{
+    "source": "腾讯云工具",
+    "target": "腾讯",
+    "relation": "应用领域"
+},
+{
+    "source": "微黄金业务",
+    "target": "腾讯",
+    "relation": "应用领域"
+},
+{
+    "source": "微信",
+    "target": "腾讯",
+    "relation": "应用领域"
+},
+{
+    "source": "微信读书",
+    "target": "腾讯",
+    "relation": "应用领域"
+},
+{
+    "source": "微信支付",
+    "target": "腾讯",
+    "relation": "应用领域"
+},
+{
+    "source": "长城保护计划",
+    "target": "腾讯",
+    "relation": "应用领域"
+},
+{
+    "source": "Bing",
+    "target": "微软",
+    "relation": "应用领域"
+},
+{
+    "source": "HoloLens",
+    "target": "微软",
+    "relation": "应用领域"
+},
+{
+    "source": "IE浏览器",
+    "target": "微软",
+    "relation": "应用领域"
+},
+{
+    "source": "Edge",
+    "target": "微软",
+    "relation": "应用领域"
+},
+{
+    "source": "Office",
+    "target": "微软",
+    "relation": "应用领域"
+},
+{
+    "source": "OneDrive",
+    "target": "微软",
+    "relation": "应用领域"
+},
+{
+    "source": "Skype",
+    "target": "微软",
+    "relation": "应用领域"
+},
+{
+    "source": "WindowsMobile",
+    "target": "微软",
+    "relation": "应用领域"
+},
+{
+    "source": "小冰",
+    "target": "微软",
+    "relation": "应用领域"
+},
+{
+    "source": "小娜",
+    "target": "微软",
+    "relation": "应用领域"
+},
+{
+    "source": "阿里云",
+    "target": "阿里巴巴",
+    "relation": "应用领域"
+},
+{
+    "source": "集五福",
+    "target": "阿里巴巴",
+    "relation": "应用领域"
+},
+{
+    "source": "空付服务",
+    "target": "阿里巴巴",
+    "relation": "应用领域"
+},
+{
+    "source": "生态化IoT联盟",
+    "target": "阿里巴巴",
+    "relation": "应用领域"
+},
+{
+    "source": "支付宝",
+    "target": "阿里巴巴",
+    "relation": "应用领域"
+},
+{
+    "source": "阿里巴巴",
+    "target": "阿里巴巴",
+    "relation": "应用领域"
+},
+{
+    "source": "安全漏洞",
+    "target": "问题",
+    "relation": "应用领域"
+},
+{
+    "source": "安全入侵",
+    "target": "问题",
+    "relation": "应用领域"
+},
+{
+    "source": "不合规商品",
+    "target": "问题",
+    "relation": "应用领域"
+},
+{
+    "source": "不正当竞争",
+    "target": "问题",
+    "relation": "应用领域"
+},
+{
+    "source": "裁员",
+    "target": "问题",
+    "relation": "应用领域"
+},
+{
+    "source": "打击刷单",
+    "target": "问题",
+    "relation": "应用领域"
+},
+{
+    "source": "打击虚假新闻",
+    "target": "问题",
+    "relation": "应用领域"
+},
+{
+    "source": "短视频维权",
+    "target": "问题",
+    "relation": "应用领域"
+},
+{
+    "source": "封杀极端视频",
+    "target": "问题",
+    "relation": "应用领域"
+},
+{
+    "source": "犯罪",
+    "target": "问题",
+    "relation": "应用领域"
+},
+{
+    "source": "反垄断",
+    "target": "问题",
+    "relation": "应用领域"
+},
+{
+    "source": "反刷单",
+    "target": "问题",
+    "relation": "应用领域"
+},
+{
+    "source": "法律禁止食品",
+    "target": "问题",
+    "relation": "应用领域"
+},
+{
+    "source": "服务故障",
+    "target": "问题",
+    "relation": "应用领域"
+},
+{
+    "source": "漏洞",
+    "target": "问题",
+    "relation": "应用领域"
+},
+{
+    "source": "骚扰电话",
+    "target": "问题",
+    "relation": "应用领域"
+},
+{
+    "source": "事故",
+    "target": "问题",
+    "relation": "应用领域"
+},
+{
+    "source": "网络赌博",
+    "target": "问题",
+    "relation": "应用领域"
+},
+{
+    "source": "违规产品",
+    "target": "问题",
+    "relation": "应用领域"
+},
+{
+    "source": "违规内容虚假广告",
+    "target": "问题",
+    "relation": "应用领域"
+},
+{
+    "source": "违规账号",
+    "target": "问题",
+    "relation": "应用领域"
+},
+{
+    "source": "虚假新闻",
+    "target": "问题",
+    "relation": "应用领域"
+},
+{
+    "source": "创界同盟",
+    "target": "京东",
+    "relation": "应用领域"
+},
+{
+    "source": "京东",
+    "target": "京东",
+    "relation": "应用领域"
+},
+{
+    "source": "共享经济",
+    "target": "共享",
+    "relation": "应用领域"
+},
+{
+    "source": "共享充电",
+    "target": "共享",
+    "relation": "应用领域"
+},
+{
+    "source": "共享出行",
+    "target": "共享",
+    "relation": "应用领域"
+},
+{
+    "source": "共享单车",
+    "target": "共享",
+    "relation": "应用领域"
+},
+{
+    "source": "共享单车标准",
+    "target": "共享",
+    "relation": "应用领域"
+},
+{
+    "source": "共享单车月卡",
+    "target": "共享",
+    "relation": "应用领域"
+},
+{
+    "source": "共享快递盒",
+    "target": "共享",
+    "relation": "应用领域"
+},
+{
+    "source": "共享零售",
+    "target": "共享",
+    "relation": "应用领域"
+},
+{
+    "source": "共享汽车",
+    "target": "共享",
+    "relation": "应用领域"
+},
+{
+    "source": "共享软件",
+    "target": "共享",
+    "relation": "应用领域"
+},
+{
+    "source": "共享时装",
+    "target": "共享",
+    "relation": "应用领域"
+},
+{
+    "source": "共享数据",
+    "target": "共享",
+    "relation": "应用领域"
+},
+{
+    "source": "视频共享服务",
+    "target": "共享",
+    "relation": "应用领域"
+},
+{
+    "source": "教室功能",
+    "target": "教育",
+    "relation": "应用领域"
+},
+{
+    "source": "教育服务",
+    "target": "教育",
+    "relation": "应用领域"
+},
+{
+    "source": "教育机构",
+    "target": "教育",
+    "relation": "应用领域"
+},
+{
+    "source": "教育科技",
+    "target": "教育",
+    "relation": "应用领域"
+},
+{
+    "source": "课程预定功能",
+    "target": "教育",
+    "relation": "应用领域"
+},
+{
+    "source": "网师课堂",
+    "target": "教育",
+    "relation": "应用领域"
+},
+{
+    "source": "学校",
+    "target": "教育",
+    "relation": "应用领域"
+},
+{
+    "source": "掌上大学",
+    "target": "教育",
+    "relation": "应用领域"
+},
+{
+    "source": "金融安全",
+    "target": "金融",
+    "relation": "应用领域"
+},
+{
+    "source": "金融产品",
+    "target": "金融",
+    "relation": "应用领域"
+},
+{
+    "source": "金融创新",
+    "target": "金融",
+    "relation": "应用领域"
+},
+{
+    "source": "金融风险预警",
+    "target": "金融",
+    "relation": "应用领域"
+},
+{
+    "source": "金融服务",
+    "target": "金融",
+    "relation": "应用领域"
+},
+{
+    "source": "金融供应链",
+    "target": "金融",
+    "relation": "应用领域"
+},
+{
+    "source": "金融监管科技领域",
+    "target": "金融",
+    "relation": "应用领域"
+},
+{
+    "source": "金融科技",
+    "target": "金融",
+    "relation": "应用领域"
+},
+{
+    "source": "金融牌照",
+    "target": "金融",
+    "relation": "应用领域"
+},
+{
+    "source": "金融平台",
+    "target": "金融",
+    "relation": "应用领域"
+},
+{
+    "source": "金融学院",
+    "target": "金融",
+    "relation": "应用领域"
+},
+{
+    "source": "金融营销平台",
+    "target": "金融",
+    "relation": "应用领域"
+},
+{
+    "source": "零钱通",
+    "target": "金融",
+    "relation": "应用领域"
+},
+{
+    "source": "普惠金融",
+    "target": "金融",
+    "relation": "应用领域"
+},
+{
+    "source": "企业云服务+金融",
+    "target": "金融",
+    "relation": "应用领域"
+},
+{
+    "source": "汽车金融",
+    "target": "金融",
+    "relation": "应用领域"
+},
+{
+    "source": "任性付",
+    "target": "金融",
+    "relation": "应用领域"
+},
+{
+    "source": "微黄金业务",
+    "target": "金融",
+    "relation": "应用领域"
+},
+{
+    "source": "消费金融",
+    "target": "金融",
+    "relation": "应用领域"
+},
+{
+    "source": "新金融",
+    "target": "金融",
+    "relation": "应用领域"
+},
+{
+    "source": "养老金融",
+    "target": "金融",
+    "relation": "应用领域"
+},
+{
+    "source": "余利宝",
+    "target": "金融",
+    "relation": "应用领域"
+},
+{
+    "source": "债券",
+    "target": "金融",
+    "relation": "应用领域"
+},
+{
+    "source": "支付宝",
+    "target": "金融",
+    "relation": "应用领域"
+},
+{
+    "source": "智能金融",
+    "target": "金融",
+    "relation": "应用领域"
+},
+{
+    "source": "智能投资",
+    "target": "金融",
+    "relation": "应用领域"
+},
+{
+    "source": "企业办公硬件",
+    "target": "企业",
+    "relation": "应用领域"
+},
+{
+    "source": "企业服务",
+    "target": "企业",
+    "relation": "应用领域"
+},
+{
+    "source": "企业公务出行",
+    "target": "企业",
+    "relation": "应用领域"
+},
+{
+    "source": "企业架构",
+    "target": "企业",
+    "relation": "应用领域"
+},
+{
+    "source": "企业网络适用性",
+    "target": "企业",
+    "relation": "应用领域"
+},
+{
+    "source": "企业信息化",
+    "target": "企业",
+    "relation": "应用领域"
+},
+{
+    "source": "企业应用",
+    "target": "企业",
+    "relation": "应用领域"
+},
+{
+    "source": "企业云服务",
+    "target": "企业",
+    "relation": "应用领域"
+},
+{
+    "source": "企业云服务+金融",
+    "target": "企业",
+    "relation": "应用领域"
+},
+{
+    "source": "企业债券",
+    "target": "企业",
+    "relation": "应用领域"
+},
+{
+    "source": "企业智能",
+    "target": "企业",
+    "relation": "应用领域"
+},
+{
+    "source": "汽车超市",
+    "target": "汽车",
+    "relation": "应用领域"
+},
+{
+    "source": "汽车充电业务",
+    "target": "汽车",
+    "relation": "应用领域"
+},
+{
+    "source": "汽车电池",
+    "target": "汽车",
+    "relation": "应用领域"
+},
+{
+    "source": "汽车金融",
+    "target": "汽车",
+    "relation": "应用领域"
+},
+{
+    "source": "汽车生活平台",
+    "target": "汽车",
+    "relation": "应用领域"
+},
+{
+    "source": "汽车芯片",
+    "target": "汽车",
+    "relation": "应用领域"
+},
+{
+    "source": "汽车行业",
+    "target": "汽车",
+    "relation": "应用领域"
+},
+{
+    "source": "汽车养护产业升级",
+    "target": "汽车",
+    "relation": "应用领域"
+},
+{
+    "source": "汽车用品",
+    "target": "汽车",
+    "relation": "应用领域"
+},
+{
+    "source": "汽车自动贩卖",
+    "target": "汽车",
+    "relation": "应用领域"
+},
+{
+    "source": "汽车",
+    "target": "汽车",
+    "relation": "应用领域"
+},
+{
+    "source": "社交功能",
+    "target": "社交",
+    "relation": "应用领域"
+},
+{
+    "source": "社交金融",
+    "target": "社交",
+    "relation": "应用领域"
+},
+{
+    "source": "社交媒体账号",
+    "target": "社交",
+    "relation": "应用领域"
+},
+{
+    "source": "社交软件",
+    "target": "社交",
+    "relation": "应用领域"
+},
+{
+    "source": "社交手环",
+    "target": "社交",
+    "relation": "应用领域"
+},
+{
+    "source": "社交网站域名",
+    "target": "社交",
+    "relation": "应用领域"
+},
+{
+    "source": "社交协作平台",
+    "target": "社交",
+    "relation": "应用领域"
+},
+{
+    "source": "社交应用",
+    "target": "社交",
+    "relation": "应用领域"
+},
+{
+    "source": "图片社交工具",
+    "target": "社交",
+    "relation": "应用领域"
+},
+{
+    "source": "语音社交",
+    "target": "社交",
+    "relation": "应用领域"
+},
+{
+    "source": "社交电商",
+    "target": "社交",
+    "relation": "应用领域"
+},
+{
+    "source": "视频发行权",
+    "target": "视频",
+    "relation": "应用领域"
+},
+{
+    "source": "视频服务",
+    "target": "视频",
+    "relation": "应用领域"
+},
+{
+    "source": "视频功能",
+    "target": "视频",
+    "relation": "应用领域"
+},
+{
+    "source": "视频共享服务",
+    "target": "视频",
+    "relation": "应用领域"
+},
+{
+    "source": "视频社交",
+    "target": "视频",
+    "relation": "应用领域"
+},
+{
+    "source": "视频搜索",
+    "target": "视频",
+    "relation": "应用领域"
+},
+{
+    "source": "视频缩略图动图预览",
+    "target": "视频",
+    "relation": "应用领域"
+},
+{
+    "source": "视频通话",
+    "target": "视频",
+    "relation": "应用领域"
+},
+{
+    "source": "视频问答",
+    "target": "视频",
+    "relation": "应用领域"
+},
+{
+    "source": "视频物体识别",
+    "target": "视频",
+    "relation": "应用领域"
+},
+{
+    "source": "视频信息流广告",
+    "target": "视频",
+    "relation": "应用领域"
+},
+{
+    "source": "视频战略",
+    "target": "视频",
+    "relation": "应用领域"
+},
+{
+    "source": "视频自动播放",
+    "target": "视频",
+    "relation": "应用领域"
+},
+{
+    "source": "4K视频",
+    "target": "视频",
+    "relation": "应用领域"
+},
+{
+    "source": "短视频",
+    "target": "视频",
+    "relation": "应用领域"
+},
+{
+    "source": "日全食视频",
+    "target": "视频",
+    "relation": "应用领域"
+},
+{
+    "source": "视频",
+    "target": "视频",
+    "relation": "应用领域"
+},
+{
+    "source": "手机触控显示模组",
+    "target": "手机",
+    "relation": "应用领域"
+},
+{
+    "source": "手机电池",
+    "target": "手机",
+    "relation": "应用领域"
+},
+{
+    "source": "手机回收",
+    "target": "手机",
+    "relation": "应用领域"
+},
+{
+    "source": "手机零售市场",
+    "target": "手机",
+    "relation": "应用领域"
+},
+{
+    "source": "手机配件",
+    "target": "手机",
+    "relation": "应用领域"
+},
+{
+    "source": "手机配件认证",
+    "target": "手机",
+    "relation": "应用领域"
+},
+{
+    "source": "手机屏幕",
+    "target": "手机",
+    "relation": "应用领域"
+},
+{
+    "source": "手机摄像",
+    "target": "手机",
+    "relation": "应用领域"
+},
+{
+    "source": "手机数据迁移",
+    "target": "手机",
+    "relation": "应用领域"
+},
+{
+    "source": "手机外观",
+    "target": "手机",
+    "relation": "应用领域"
+},
+{
+    "source": "手机系统",
+    "target": "手机",
+    "relation": "应用领域"
+},
+{
+    "source": "手机相机",
+    "target": "手机",
+    "relation": "应用领域"
+},
+{
+    "source": "手机芯片",
+    "target": "手机",
+    "relation": "应用领域"
+},
+{
+    "source": "手机修图",
+    "target": "手机",
+    "relation": "应用领域"
+},
+{
+    "source": "手机业务",
+    "target": "手机",
+    "relation": "应用领域"
+},
+{
+    "source": "手机医疗设备",
+    "target": "手机",
+    "relation": "应用领域"
+},
+{
+    "source": "手机游戏",
+    "target": "手机",
+    "relation": "应用领域"
+},
+{
+    "source": "手机召回服务",
+    "target": "手机",
+    "relation": "应用领域"
+},
+{
+    "source": "手机",
+    "target": "手机",
+    "relation": "应用领域"
+}]

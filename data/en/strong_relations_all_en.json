@@ -1,0 +1,4031 @@
+[{
+    "source" : "Disney" ,
+    "target" : "20th Century Fox" ,
+    "relation" : "subsidiary"
+},
+{
+    "source" : "apple" ,
+    "target" : "ApplePay" ,
+    "relation" : "Release"
+},
+{
+    "source" : "apple" ,
+    "target" : "AppStore" ,
+    "relation" : "Development"
+},
+{
+    "source" : "Softbank" ,
+    "target" : "ARM" ,
+    "relation" : "Acquisition" ,
+    "timestamp" : "2016-07-18"
+},
+{
+    "source" : "CP Group" ,
+    "target" : "AscendMoney" ,
+    "relation" : "subsidiary"
+},
+{
+    "source" : "ZTE" ,
+    "target" : "BlueData" ,
+    "relation" : "subsidiary"
+},
+{
+    "source" : "Warner Bros." ,
+    "target" : "DC" ,
+    "relation" : "Subsidiary"
+},
+{
+    "source" : "Walmart" ,
+    "target" : "Flipkart" ,
+    "relation" : "Acquisition" ,
+    "timestamp" : "2018-08-08"
+},
+{
+    "source" : "Kering Group" ,
+    "target" : "Gucci" ,
+    "relation" : "subsidiary"
+},
+{
+    "source" : "Microsoft" ,
+    "target" : "HoloLens" ,
+    "relation" : "Development"
+},
+{
+    "source" : "Disney" ,
+    "target" : "Hulu" ,
+    "relation" : "full operational control" ,
+    "timestamp" : "2019-05-14"
+},
+{
+    "source" : "KFC" ,
+    "target" : "KFCoriginal+" ,
+    "relation" : "Push out"
+},
+{
+    "source" : "Baidu" ,
+    "target" : "KFCoriginal+" ,
+    "relation" : "Push out"
+},
+{
+    "source" : "Baidu" ,
+    "target" : "KITTAI" ,
+    "relation" : "Acquisition" ,
+    "timestamp" : "2017-07-05"
+},
+{
+    "source" : "Suning" ,
+    "target" : "Laox" ,
+    "relation" : "subsidiary"
+},
+{
+    "source" : "Cheetah Mobile" ,
+    "target" : "Live.me" ,
+    "relation" : "subsidiary"
+},
+{
+    "source" : "Lyft" ,
+    "target" : "Motivate" ,
+    "relation" : "Acquisition" ,
+    "timestamp" : "2018-07-03"
+},
+{
+    "source" : "Byte Beat" ,
+    "target" : "Musical.ly" ,
+    "relation" : "Acquisition" ,
+    "timestamp" : "2017-11-10"
+},
+{
+    "source" : "Neusoft" ,
+    "target" : "NetEye Network Security Product" ,
+    "relation" : "R&D"
+},
+{
+    "source" : "Facebook" ,
+    "target" : "Oculus" ,
+    "relation" : "Acquisition" ,
+    "timestamp" : "2014-12-13"
+},
+{
+    "source" : "Wanda" ,
+    "target" : "Odeon&UCI" ,
+    "relation" : "M&A" ,
+    "timestamp" : "2016-07-13"
+},
+{
+    "source" : "NASA" ,
+    "target" : "OpenStack" ,
+    "relation" : "R&D"
+},
+{
+    "source" : "Dell" ,
+    "target" : "Powervault" ,
+    "relation" : "under the jurisdiction"
+},
+{
+    "source" : "Guazi used car" ,
+    "target" : "PP car rental" ,
+    "relation" : "Acquisition" ,
+    "timestamp" : "2019-03-04"
+},
+{
+    "source" : "Tencent" ,
+    "target" : "QQ whirlwind" ,
+    "relation" : "Push out"
+},
+{
+    "source" : "Tencent" ,
+    "target" : "QQ Music" ,
+    "relation" : "subsidiary"
+},
+{
+    "source" : "Tencent Music" ,
+    "target" : "QQ Music" ,
+    "relation" : "covers"
+},
+{
+    "source" : "LinkedIn" ,
+    "target" : "RunHop" ,
+    "relation" : "Acquisition" ,
+    "timestamp" : "2016-05-16"
+},
+{
+    "source" : "VectorCapital" ,
+    "target" : "Saba" ,
+    "relation" : "Acquisition" ,
+    "timestamp" : "2015-02-16"
+},
+{
+    "source" : "apple" ,
+    "target" : "Safari" ,
+    "relation" : "R&D"
+},
+{
+    "source" : "Microsoft" ,
+    "target" : "Skype" ,
+    "relation" : "Acquisition" ,
+    "timestamp" : "2011-10-14"
+},
+{
+    "source" : "Valve" ,
+    "target" : "Steam" ,
+    "relation" : "Development Design"
+},
+{
+    "source" : "Baidu" ,
+    "target" : "TalkType" ,
+    "relation" : "Push out"
+},
+{
+    "source" : "Alibaba" ,
+    "target" : "Teambition" ,
+    "relation" : "subsidiary"
+},
+{
+    "source" : "1MORE" ,
+    "target" : "TiinLab" ,
+    "relation" : "merge"
+},
+{
+    "source" : "Tencent" ,
+    "target" : "TIM" ,
+    "relation" : "subsidiary"
+},
+{
+    "source" : "Jingdong" ,
+    "target" : "TOPLIFE" ,
+    "relation" : "subsidiary"
+},
+{
+    "source" : "Alibaba" ,
+    "target" : "UC" ,
+    "relation" : "subsidiary"
+},
+{
+    "source" : "UCloud" ,
+    "target" : "Umarket" ,
+    "relation" : "Push out"
+},
+{
+    "source" : "Valve" ,
+    "target" : "Vive" ,
+    "relation" : "Development"
+},
+{
+    "source" : "HTC" ,
+    "target" : "Vive" ,
+    "relation" : "Development"
+},
+{
+    "source" : "HTC" ,
+    "target" : "ViveportArcade" ,
+    "relation" : "Push out"
+},
+{
+    "source" : "Vanke" ,
+    "target" : "V League" ,
+    "relation" : "established"
+},
+{
+    "source" : "Alphabet" ,
+    "target" : "Waymo" ,
+    "relation" : "subsidiary"
+},
+{
+    "source" : "Tencent" ,
+    "target" : "WeGame" ,
+    "relation" : "Development"
+},
+{
+    "source" : "Western Union" ,
+    "target" : "WUConnect" ,
+    "relation" : "Push out"
+},
+{
+    "source" : "Microsoft" ,
+    "target" : "Xbox" ,
+    "relation" : "subsidiary"
+},
+{
+    "source" : "Baidu" ,
+    "target" : "xPerception" ,
+    "relation" : "Acquisition" ,
+    "timestamp" : "2017-04-13"
+},
+{
+    "source" : "Baidu" ,
+    "target" : "YY" ,
+    "relation" : "Acquisition" ,
+    "timestamp" : "2020-11-17"
+},
+{
+    "source" : "Alibaba" ,
+    "target" : "Ali Health" ,
+    "relation" : "subsidiary"
+},
+{
+    "source" : "Alibaba" ,
+    "target" : "Alibaba Sports" ,
+    "relation" : "holding"
+},
+{
+    "source" : "Alibaba" ,
+    "target" : "Ali Literature" ,
+    "relation" : "Push out"
+},
+{
+    "source" : "Shrimp Music" ,
+    "target" : "Ali Music" ,
+    "relation" : "Merge as"
+},
+{
+    "source" : "Alibaba" ,
+    "target" : "Ali Music" ,
+    "relation" : "subsidiary"
+},
+{
+    "source" : "Alibaba" ,
+    "target" : "Alibaba Pictures" ,
+    "relation" : "Acquisition" ,
+    "timestamp" : "2014-06-24"
+},
+{
+    "source" : "Alibaba" ,
+    "target" : "Alibaba Cloud" ,
+    "relation" : "subsidiary"
+},
+{
+    "source" : "Baidu" ,
+    "target" : "Android Network" ,
+    "relation" : "M&A" ,
+    "timestamp" : "2013-10-01"
+},
+{
+    "source" : "Baidu" ,
+    "target" : "Baidu Security" ,
+    "relation" : "subsidiary"
+},
+{
+    "source" : "Baidu" ,
+    "target" : "Baidu Encyclopedia" ,
+    "relation" : "Push out"
+},
+{
+    "source" : "Baidu" ,
+    "target" : "Baidu Ventures" ,
+    "relation" : "established"
+},
+{
+    "source" : "Baidu" ,
+    "target" : "Baidu Finance" ,
+    "relation" : "subsidiary"
+},
+{
+    "source" : "Baidu" ,
+    "target" : "Baidu glutinous rice" ,
+    "relation" : "Acquisition" ,
+    "timestamp" : "2014-01-24"
+},
+{
+    "source" : "Baidu Finance" ,
+    "target" : "Baidu Wallet" ,
+    "relation" : "subsidiary"
+},
+{
+    "source" : "Baidu" ,
+    "target" : "Baidu Video" ,
+    "relation" : "subsidiary"
+},
+{
+    "source" : "Baidu" ,
+    "target" : "Baidu Mobile Assistant" ,
+    "relation" : "Development"
+},
+{
+    "source" : "Baidu" ,
+    "target" : "Baidu Hitchhiker" ,
+    "relation" : "subsidiary"
+},
+{
+    "source" : "Baidu" ,
+    "target" : "Baidu search" ,
+    "relation" : "Push out"
+},
+{
+    "source" : "Baidu" ,
+    "target" : "Baidu Tieba" ,
+    "relation" : "subsidiary"
+},
+{
+    "source" : "are you hungry" ,
+    "target" : "Baidu Takeaway" ,
+    "relation" : "Acquisition" ,
+    "timestamp" : "2017-08-24"
+},
+{
+    "source" : "Baidu" ,
+    "target" : "Baidu network disk" ,
+    "relation" : "subsidiary"
+},
+{
+    "source" : "Baidu" ,
+    "target" : "Baidu Future Store" ,
+    "relation" : "Push out"
+},
+{
+    "source" : "Baidu" ,
+    "target" : "Baidu Wenku" ,
+    "relation" : "Release"
+},
+{
+    "source" : "Baidu" ,
+    "target" : "Baidu has money to spend" ,
+    "relation" : "subsidiary"
+},
+{
+    "source" : "Baidu" ,
+    "target" : "Baidu Capital" ,
+    "relation" : "established"
+},
+{
+    "source" : "Baidu" ,
+    "target" : "Baijiahao" ,
+    "relation" : "build"
+},
+{
+    "source" : "Byte Beat" ,
+    "target" : "Encyclopedia Famous Doctors Network" ,
+    "relation" : "wholly-owned acquisition" ,
+    "timestamp" : "2020-08-12"
+},
+{
+    "source" : "China CITIC Bank" ,
+    "target" : "Baixin Bank" ,
+    "relation" : "Originate"
+},
+{
+    "source" : "Baidu" ,
+    "target" : "Baixin Bank" ,
+    "relation" : "Originate"
+},
+{
+    "source" : "Anda" ,
+    "target" : "Beingmate" ,
+    "relation" : "merged"
+},
+{
+    "source" : "Daimler" ,
+    "target" : "Benz" ,
+    "relation" : "subsidiary"
+},
+{
+    "source" : "Tencent" ,
+    "target" : "Tenpay" ,
+    "relation" : "Push out"
+},
+{
+    "source" : "Alibaba" ,
+    "target" : "Rookie" ,
+    "relation" : "subsidiary"
+},
+{
+    "source" : "Sohu" ,
+    "target" : "Swimming" ,
+    "relation" : "wholly owned"
+},
+{
+    "source" : "Alibaba" ,
+    "target" : "Integrity Pass" ,
+    "relation" : "Push out"
+},
+{
+    "source" : "Danone" ,
+    "target" : "Danone Nutricia" ,
+    "relation" : "subsidiary"
+},
+{
+    "source" : "Meituan" ,
+    "target" : "Public Comments" ,
+    "relation" : "merge"
+},
+{
+    "source" : "fast" ,
+    "target" : "DiDi" ,
+    "relation" : "merge"
+},
+{
+    "source" : "Lianjia" ,
+    "target" : "Dingding rents a house" ,
+    "relation" : "incorporated" ,
+    "timestamp" : "2016-06-09"
+},
+{
+    "source" : "Alibaba" ,
+    "target" : "Dingding" ,
+    "relation" : "build"
+},
+{
+    "source" : "Byte Beat" ,
+    "target" : "Know the car emperor" ,
+    "relation" : "subsidiary"
+},
+{
+    "source" : "Baidu" ,
+    "target" : "Raven Technology" ,
+    "relation" : "Acquisition" ,
+    "timestamp" : "2017-02-16"
+},
+{
+    "source" : "Star Tour Media" ,
+    "target" : "Duo Niu Media" ,
+    "relation" : "Acquired" ,
+    "timestamp" : "2017-12-25"
+},
+{
+    "source" : "Alibaba" ,
+    "target" : "are you hungry" ,
+    "relation" : "Acquisition" ,
+    "timestamp" : "2018-04-02"
+},
+{
+    "source" : "Alibaba" ,
+    "target" : "Flying Pig" ,
+    "relation" : "subsidiary"
+},
+{
+    "source" : "Guangzhou Automobile Group" ,
+    "target" : "Guan Dao" ,
+    "relation" : "subsidiary"
+},
+{
+    "source" : "HNA Group" ,
+    "target" : "HNA Travel" ,
+    "relation" : "subsidiary"
+},
+{
+    "source" : "Baidu Video" ,
+    "target" : "Good-looking video" ,
+    "relation" : "Flagship"
+},
+{
+    "source" : "Meituan" ,
+    "target" : "Internet + University" ,
+    "relation" : "established"
+},
+{
+    "source" : "BGI" ,
+    "target" : "Huada Technology" ,
+    "relation" : "Subsidiary"
+},
+{
+    "source" : "Huawei" ,
+    "target" : "Huawei Pay" ,
+    "relation" : "Research"
+},
+{
+    "source" : "hammer" ,
+    "target" : "nut brand" ,
+    "relation" : "R&D"
+},
+{
+    "source" : "People's Daily" ,
+    "target" : "Health Times" ,
+    "relation" : "host"
+},
+{
+    "source" : "No.1 shop" ,
+    "target" : "Jingdong" ,
+    "relation" : "merge" ,
+    "timestamp" : "2016-06-21"
+},
+{
+    "source" : "Dada" ,
+    "target" : "Jingdong Daojia" ,
+    "relation" : "subsidiary"
+},
+{
+    "source" : "Jingdong" ,
+    "target" : "JD Finance" ,
+    "relation" : "subsidiary"
+},
+{
+    "source" : "Jingdong" ,
+    "target" : "JD Cloud" ,
+    "relation" : "subsidiary"
+},
+{
+    "source" : "Alibaba" ,
+    "target" : "Juhuasuan" ,
+    "relation" : "subsidiary"
+},
+{
+    "source" : "Cisco" ,
+    "target" : "Ketianyun" ,
+    "relation" : "creation"
+},
+{
+    "source" : "TCL" ,
+    "target" : "Ketianyun" ,
+    "relation" : "creation"
+},
+{
+    "source" : "Alibaba" ,
+    "target" : "Ke Ruyun" ,
+    "relation" : "wholly owned subsidiary"
+},
+{
+    "source" : "Yum" ,
+    "target" : "KFC" ,
+    "relation" : "subsidiary"
+},
+{
+    "source" : "Ant Financial Services" ,
+    "target" : "word of mouth" ,
+    "relation" : "build"
+},
+{
+    "source" : "Alibaba" ,
+    "target" : "word of mouth" ,
+    "relation" : "build"
+},
+{
+    "source" : "beautiful" ,
+    "target" : "Kuka" ,
+    "relation" : "Subsidiary"
+},
+{
+    "source" : "Tencent Music" ,
+    "target" : "Kugou Music" ,
+    "relation" : "covers"
+},
+{
+    "source" : "Meituan Takeaway" ,
+    "target" : "quick donkey" ,
+    "relation" : "includes"
+},
+{
+    "source" : "Ali Health" ,
+    "target" : "Blue Hat" ,
+    "relation" : "Acquisition" ,
+    "timestamp" : "2017-05-19"
+},
+{
+    "source" : "Lele Classroom" ,
+    "target" : "Lele Composition" ,
+    "relation" : "Online"
+},
+{
+    "source" : "LeTV" ,
+    "target" : "LeTV Sports" ,
+    "relation" : "subsidiary"
+},
+{
+    "source" : "Tencent" ,
+    "target" : "Change Pass" ,
+    "relation" : "subsidiary"
+},
+{
+    "source" : "Microsoft" ,
+    "target" : "LinkedIn" ,
+    "relation" : "Acquisition" ,
+    "timestamp" : "2016-06-13"
+},
+{
+    "source" : "National Grid" ,
+    "target" : "Luneng Group" ,
+    "relation" : "wholly owned subsidiary"
+},
+{
+    "source" : "Ant Financial Services" ,
+    "target" : "Ant Huabei" ,
+    "relation" : "Push out"
+},
+{
+    "source" : "Alibaba" ,
+    "target" : "Ant Financial Services" ,
+    "relation" : "subsidiary"
+},
+{
+    "source" : "Disney" ,
+    "target" : "Marvel" ,
+    "relation" : "Subsidiary" ,
+    "timestamp" : "2009-12-31"
+},
+{
+    "source" : "Hunan Radio and Television" ,
+    "target" : "Mango TV" ,
+    "relation" : "subsidiary"
+},
+{
+    "source" : "Meituan" ,
+    "target" : "cat's eye" ,
+    "relation" : "subsidiary"
+},
+{
+    "source" : "Meituan" ,
+    "target" : "Cat's Eye Movie" ,
+    "relation" : "subsidiary"
+},
+{
+    "source" : "Meituan" ,
+    "target" : "Meituan Travel" ,
+    "relation" : "Online"
+},
+{
+    "source" : "Meituan" ,
+    "target" : "Meituan Takeaway" ,
+    "relation" : "subsidiary"
+},
+{
+    "source" : "Alibaba" ,
+    "target" : "Delicious without waiting" ,
+    "relation" : "wholly-owned acquisition" ,
+    "timestamp" : "2021-01-18"
+},
+{
+    "source" : "Meituan" ,
+    "target" : "Mobike" ,
+    "relation" : "Acquisition" ,
+    "timestamp" : "2018-04-03"
+},
+{
+    "source" : "Lenovo" ,
+    "target" : "Motorola" ,
+    "relation" : "Acquisition" ,
+    "timestamp" : "2014-01-30"
+},
+{
+    "source" : "Tencent" ,
+    "target" : "Friends Network" ,
+    "relation" : "build"
+},
+{
+    "source" : "Disney" ,
+    "target" : "Pixar" ,
+    "relation" : "Acquisition" ,
+    "timestamp" : "2006-01-23"
+},
+{
+    "source" : "Meituan" ,
+    "target" : "Screen Core Technology" ,
+    "relation" : "wholly-owned acquisition" ,
+    "timestamp" : "2018-05-16"
+},
+{
+    "source" : "Medical Union" ,
+    "target" : "Doctor Penguin" ,
+    "relation" : "Initiate Creation" ,
+    "timestamp" : "2016-06-01"
+},
+{
+    "source" : "Tencent" ,
+    "target" : "Doctor Penguin" ,
+    "relation" : "Initiate Creation" ,
+    "timestamp" : "2016-06-01"
+},
+{
+    "source" : "Tencent" ,
+    "target" : "Penguin Movies" ,
+    "relation" : "subsidiary"
+},
+{
+    "source" : "Tencent" ,
+    "target" : "Thousand Chats" ,
+    "relation" : "Incubation"
+},
+{
+    "source" : "Meituan" ,
+    "target" : "Money Bag Treasure" ,
+    "relation" : "wholly-owned acquisition" ,
+    "timestamp" : "2016-09-30"
+},
+{
+    "source" : "Tsinghua University High School" ,
+    "target" : "Tsinghua University" ,
+    "relation" : "incorporate"
+},
+{
+    "source" : "Xiaomi" ,
+    "target" : "Ruifutong" ,
+    "relation" : "Acquisition" ,
+    "timestamp" : "2016-02-23"
+},
+{
+    "source" : "Sany Group" ,
+    "target" : "Sany Heavy Industry" ,
+    "relation" : "create"
+},
+{
+    "source" : "Digital China" ,
+    "target" : "Shenzhou Cloud Computing" ,
+    "relation" : "Push out"
+},
+{
+    "source" : "Shenzhou UCAR" ,
+    "target" : "Shenzhou Car Rental" ,
+    "relation" : "subsidiary"
+},
+{
+    "source" : "Tencent" ,
+    "target" : "Sogou" ,
+    "relation" : "wholly-owned acquisition" ,
+    "timestamp" : "2021-09-24"
+},
+{
+    "source" : "Sohu" ,
+    "target" : "Sohu Video" ,
+    "relation" : "subsidiary"
+},
+{
+    "source" : "Baidu Music" ,
+    "target" : "Taihe Music" ,
+    "relation" : "merge" ,
+    "timestamp" : "2015-12-03"
+},
+{
+    "source" : "Alibaba" ,
+    "target" : "Taobao" ,
+    "relation" : "subsidiary"
+},
+{
+    "source" : "Tencent" ,
+    "target" : "Doctor Teng Ai" ,
+    "relation" : "subsidiary"
+},
+{
+    "source" : "Tencent" ,
+    "target" : "Tencent WiFi Manager" ,
+    "relation" : "subsidiary"
+},
+{
+    "source" : "Tencent" ,
+    "target" : "Tencent Map" ,
+    "relation" : "Push out"
+},
+{
+    "source" : "Tencent" ,
+    "target" : "Tencent Computer Manager" ,
+    "relation" : "Push out"
+},
+{
+    "source" : "Tencent" ,
+    "target" : "Tencent Anime" ,
+    "relation" : "subsidiary"
+},
+{
+    "source" : "Tencent" ,
+    "target" : "Tencent Classroom" ,
+    "relation" : "Push out"
+},
+{
+    "source" : "Tencent" ,
+    "target" : "Tencent Auto" ,
+    "relation" : "subsidiary"
+},
+{
+    "source" : "Tencent" ,
+    "target" : "Tencent Video" ,
+    "relation" : "subsidiary"
+},
+{
+    "source" : "Tencent" ,
+    "target" : "Tencent Sports" ,
+    "relation" : "subsidiary"
+},
+{
+    "source" : "Tencent" ,
+    "target" : "Tencent Microvision" ,
+    "relation" : "subsidiary"
+},
+{
+    "source" : "Tencent" ,
+    "target" : "Tencent Weiyun" ,
+    "relation" : "build"
+},
+{
+    "source" : "Tencent" ,
+    "target" : "Tencent Pictures" ,
+    "relation" : "wholly owned subsidiary"
+},
+{
+    "source" : "Tencent" ,
+    "target" : "Tencent Youtu" ,
+    "relation" : "subsidiary"
+},
+{
+    "source" : "Tencent" ,
+    "target" : "Tencent Games" ,
+    "relation" : "subsidiary"
+},
+{
+    "source" : "Tencent" ,
+    "target" : "Tencent Cloud" ,
+    "relation" : "subsidiary"
+},
+{
+    "source" : "Alibaba" ,
+    "target" : "Tmall" ,
+    "relation" : "subsidiary"
+},
+{
+    "source" : "Tmall" ,
+    "target" : "Tmall Medicine" ,
+    "relation" : "subsidiary"
+},
+{
+    "source" : "Suning" ,
+    "target" : "Daily Express" ,
+    "relation" : "Acquisition" ,
+    "timestamp" : "2017-01-03"
+},
+{
+    "source" : "Mango TV" ,
+    "target" : "Tianyu Media" ,
+    "relation" : "subsidiary"
+},
+{
+    "source" : "China Telecom" ,
+    "target" : "Sweet Orange Finance" ,
+    "relation" : "wholly owned subsidiary"
+},
+{
+    "source" : "Alibaba" ,
+    "target" : "pea pod" ,
+    "relation" : "Acquisition" ,
+    "timestamp" : "2016-07-05"
+},
+{
+    "source" : "Wanda" ,
+    "target" : "Wanda Network" ,
+    "relation" : "subsidiary"
+},
+{
+    "source" : "Wanda" ,
+    "target" : "Wanda Film and Television" ,
+    "relation" : "subsidiary"
+},
+{
+    "source" : "Alibaba" ,
+    "target" : "NetEase Koala Overseas Shopping" ,
+    "relation" : "subsidiary"
+},
+{
+    "source" : "NetEase" ,
+    "target" : "Netease strict selection" ,
+    "relation" : "subsidiary"
+},
+{
+    "source" : "beautiful" ,
+    "target" : "Welling" ,
+    "relation" : "subsidiary"
+},
+{
+    "source" : "Tencent" ,
+    "target" : "WeChat" ,
+    "relation" : "subsidiary"
+},
+{
+    "source" : "Tencent" ,
+    "target" : "WeChat Reading" ,
+    "relation" : "subsidiary"
+},
+{
+    "source" : "Tencent" ,
+    "target" : "WeChat Payment" ,
+    "relation" : "subsidiary"
+},
+{
+    "source" : "IdeaCellular" ,
+    "target" : "Vodafone" ,
+    "relation" : "merge"
+},
+{
+    "source" : "China Unicom" ,
+    "target" : "Woyun" ,
+    "relation" : "R&D"
+},
+{
+    "source" : "Alibaba" ,
+    "target" : "Shrimp Music" ,
+    "relation" : "Acquisition" ,
+    "timestamp" : "2013-01-10"
+},
+{
+    "source" : "Foxconn" ,
+    "target" : "Sharp" ,
+    "relation" : "Acquisition" ,
+    "timestamp" : "2016-08-11"
+},
+{
+    "source" : "Alibaba" ,
+    "target" : "Free Fish" ,
+    "relation" : "subsidiary"
+},
+{
+    "source" : "Baidu" ,
+    "target" : "The boat goes to sea" ,
+    "relation" : "subsidiary"
+},
+{
+    "source" : "Qua Krypton Finance" ,
+    "target" : "Xiaojin Financial Management" ,
+    "relation" : "Production"
+},
+{
+    "source" : "DiDi" ,
+    "target" : "Little Blue Bike" ,
+    "relation" : "Management" ,
+    "timestamp" : "2018-01-09"
+},
+{
+    "source" : "Xiaomi Finance" ,
+    "target" : "Xiaomi Loan" ,
+    "relation" : "Release"
+},
+{
+    "source" : "Xiaomi" ,
+    "target" : "Xiaomi Finance" ,
+    "relation" : "subsidiary"
+},
+{
+    "source" : "Xiaomi" ,
+    "target" : "Xiaomi Ecological Chain Company" ,
+    "relation" : "subsidiary"
+},
+{
+    "source" : "Xiaomi" ,
+    "target" : "Millet direct supply" ,
+    "relation" : "subsidiary"
+},
+{
+    "source" : "Xiaomi" ,
+    "target" : "Xiaomi crowdfunding" ,
+    "relation" : "subsidiary"
+},
+{
+    "source" : "Ape Guidance" ,
+    "target" : "Little Ape Search Questions" ,
+    "relation" : "subsidiary"
+},
+{
+    "source" : "Sina" ,
+    "target" : "Sina Finance" ,
+    "relation" : "subsidiary"
+},
+{
+    "source" : "Doctor Penguin" ,
+    "target" : "Doctor Almond" ,
+    "relation" : "merge" ,
+    "timestamp" : "2018-08-08"
+},
+{
+    "source" : "Baidu" ,
+    "target" : "Bear's Paw" ,
+    "relation" : "Push out"
+},
+{
+    "source" : "Honda" ,
+    "target" : "Accord" ,
+    "relation" : "subsidiary"
+},
+{
+    "source" : "Weimeng" ,
+    "target" : "Elegance seat" ,
+    "relation" : "Acquisition" ,
+    "timestamp" : "2020-02-20"
+},
+{
+    "source" : "Baidu" ,
+    "target" : "Medical Brain" ,
+    "relation" : "Push out"
+},
+{
+    "source" : "Gree" ,
+    "target" : "Yinlong" ,
+    "relation" : "Subsidiary"
+},
+{
+    "source" : "Baidu Map" ,
+    "target" : "Hawkeye Hardware Alliance" ,
+    "relation" : "established"
+},
+{
+    "source" : "Alibaba" ,
+    "target" : "Youku Tudou" ,
+    "relation" : "wholly owned subsidiary"
+},
+{
+    "source" : "NetEase" ,
+    "target" : "Youdao Cloud Notes" ,
+    "relation" : "subsidiary"
+},
+{
+    "source" : "Xiaomi" ,
+    "target" : "Yumi" ,
+    "relation" : "Agent"
+},
+{
+    "source" : "Tencent" ,
+    "target" : "Reading Group" ,
+    "relation" : "subsidiary"
+},
+{
+    "source" : "China Merchants Group" ,
+    "target" : "China Merchants Shekou" ,
+    "relation" : "subsidiary"
+},
+{
+    "source" : "Sequoia Capital" ,
+    "target" : "Zhenge Fund" ,
+    "relation" : "creation"
+},
+{
+    "source" : "Meituan" ,
+    "target" : "Hazelnut Homestay" ,
+    "relation" : "subsidiary"
+},
+{
+    "source" : "Ant Financial Services" ,
+    "target" : "Alipay" ,
+    "relation" : "subsidiary"
+},
+{
+    "source" : "Ant Financial Services" ,
+    "target" : "Sesame Credit" ,
+    "relation" : "subsidiary"
+},
+{
+    "source" : "Seismic Bureau" ,
+    "target" : "China Seismic Network" ,
+    "relation" : "Subordinate"
+},
+{
+    "source" : "Ministry of Industry and Information Technology" ,
+    "target" : "China Academy of Information and Communications Technology" ,
+    "relation" : "Subordinate"
+},
+{
+    "source" : "Tencent" ,
+    "target" : "China Music Group" ,
+    "relation" : "control"
+},
+{
+    "source" : "Zhongke Investment Promotion" ,
+    "target" : "Zhongke Lechuang" ,
+    "relation" : "subsidiary"
+},
+{
+    "source" : "PetroChina" ,
+    "target" : "CNPC Ruifei" ,
+    "relation" : "wholly owned subsidiary"
+},
+{
+    "source" : "CIIC Group" ,
+    "target" : "China IQ Exhibition" ,
+    "relation" : "wholly owned subsidiary"
+},
+{
+    "source" : "Xiaomi" ,
+    "target" : "Purple Rice" ,
+    "relation" : "Acquisition" ,
+    "timestamp" : "2021-03-01"
+},
+{
+    "source" : "3D Touch" ,
+    "target" : "3D" ,
+    "relation" : "Applied Technology"
+},
+{
+    "source" : "3D printing" ,
+    "target" : "3D" ,
+    "relation" : "Applied Technology"
+},
+{
+    "source" : "3D map" ,
+    "target" : "3D" ,
+    "relation" : "Applied Technology"
+},
+{
+    "source" : "3D TV" ,
+    "target" : "3D" ,
+    "relation" : "Applied Technology"
+},
+{
+    "source" : "3D object sharing platform" ,
+    "target" : "3D" ,
+    "relation" : "Applied Technology"
+},
+{
+    "source" : "3D Photo" ,
+    "target" : "3D" ,
+    "relation" : "Applied Technology"
+},
+{
+    "source" : "3D hologram" ,
+    "target" : "3D" ,
+    "relation" : "Applied Technology"
+},
+{
+    "source" : "3D camera" ,
+    "target" : "3D" ,
+    "relation" : "Applied Technology"
+},
+{
+    "source" : "Naked Eye 3D" ,
+    "target" : "3D" ,
+    "relation" : "Applied Technology"
+},
+{
+    "source" : "4K video" ,
+    "target" : "4K" ,
+    "relation" : "Applied Technology"
+},
+{
+    "source" : "4K TV" ,
+    "target" : "4K" ,
+    "relation" : "Applied Technology"
+},
+{
+    "source" : "AI Security" ,
+    "target" : "AI" ,
+    "relation" : "Applied Technology"
+},
+{
+    "source" : "AI Competition" ,
+    "target" : "AI" ,
+    "relation" : "Applied Technology"
+},
+{
+    "source" : "AI Assisted Diagnosis" ,
+    "target" : "AI" ,
+    "relation" : "Applied Technology"
+},
+{
+    "source" : "AI tool" ,
+    "target" : "AI" ,
+    "relation" : "Applied Technology"
+},
+{
+    "source" : "AI Robot" ,
+    "target" : "AI" ,
+    "relation" : "Applied Technology"
+},
+{
+    "source" : "AI car" ,
+    "target" : "AI" ,
+    "relation" : "Applied Technology"
+},
+{
+    "source" : "AI Designer" ,
+    "target" : "AI" ,
+    "relation" : "Applied Technology"
+},
+{
+    "source" : "AI chip" ,
+    "target" : "AI" ,
+    "relation" : "Applied Technology"
+},
+{
+    "source" : "AI Medical Imaging Products" ,
+    "target" : "AI" ,
+    "relation" : "Applied Technology"
+},
+{
+    "source" : "AI application" ,
+    "target" : "AI" ,
+    "relation" : "Applied Technology"
+},
+{
+    "source" : "AI Hardware" ,
+    "target" : "AI" ,
+    "relation" : "Applied Technology"
+},
+{
+    "source" : "AI Assistant" ,
+    "target" : "AI" ,
+    "relation" : "Applied Technology"
+},
+{
+    "source" : "AI+Publishing" ,
+    "target" : "AI" ,
+    "relation" : "Applied Technology"
+},
+{
+    "source" : "AR shopping" ,
+    "target" : "AR" ,
+    "relation" : "Applied Technology"
+},
+{
+    "source" : "AR Marketing" ,
+    "target" : "AR" ,
+    "relation" : "Applied Technology"
+},
+{
+    "source" : "AR" ,
+    "target" : "AR" ,
+    "relation" : "Applied Technology"
+},
+{
+    "source" : "Electronic Transaction" ,
+    "target" : "electron" ,
+    "relation" : "Applied Technology"
+},
+{
+    "source" : "eSports" ,
+    "target" : "electron" ,
+    "relation" : "Applied Technology"
+},
+{
+    "source" : "electronic card package" ,
+    "target" : "electron" ,
+    "relation" : "Applied Technology"
+},
+{
+    "source" : "Electronic Coupon" ,
+    "target" : "electron" ,
+    "relation" : "Applied Technology"
+},
+{
+    "source" : "electronic wallet" ,
+    "target" : "electron" ,
+    "relation" : "Applied Technology"
+},
+{
+    "source" : "E-commerce" ,
+    "target" : "electron" ,
+    "relation" : "Applied Technology"
+},
+{
+    "source" : "electronic fence" ,
+    "target" : "electron" ,
+    "relation" : "Applied Technology"
+},
+{
+    "source" : "Video Game" ,
+    "target" : "electron" ,
+    "relation" : "Applied Technology"
+},
+{
+    "source" : "electronic document" ,
+    "target" : "electron" ,
+    "relation" : "Applied Technology"
+},
+{
+    "source" : "Electronic driver's license" ,
+    "target" : "electron" ,
+    "relation" : "Applied Technology"
+},
+{
+    "source" : "ABS Cloud Platform" ,
+    "target" : "cloud" ,
+    "relation" : "Applied Technology"
+},
+{
+    "source" : "Alibaba Cloud" ,
+    "target" : "cloud" ,
+    "relation" : "Applied Technology"
+},
+{
+    "source" : "Big Data Proprietary Cloud" ,
+    "target" : "cloud" ,
+    "relation" : "Applied Technology"
+},
+{
+    "source" : "Public Security Cloud Computing" ,
+    "target" : "cloud" ,
+    "relation" : "Applied Technology"
+},
+{
+    "source" : "Exam Cloud" ,
+    "target" : "cloud" ,
+    "relation" : "Applied Technology"
+},
+{
+    "source" : "Enterprise Cloud Service + Finance" ,
+    "target" : "cloud" ,
+    "relation" : "Applied Technology"
+},
+{
+    "source" : "Enterprise Cloud Service" ,
+    "target" : "cloud" ,
+    "relation" : "Applied Technology"
+},
+{
+    "source" : "Tencent Cloud Tools" ,
+    "target" : "cloud" ,
+    "relation" : "Applied Technology"
+},
+{
+    "source" : "Logistics Cloud" ,
+    "target" : "cloud" ,
+    "relation" : "Applied Technology"
+},
+{
+    "source" : "Collaboration Cloud Open Platform" ,
+    "target" : "cloud" ,
+    "relation" : "Applied Technology"
+},
+{
+    "source" : "Telemedicine Cloud" ,
+    "target" : "cloud" ,
+    "relation" : "Applied Technology"
+},
+{
+    "source" : "Cloud+Campus" ,
+    "target" : "cloud" ,
+    "relation" : "Applied Technology"
+},
+{
+    "source" : "Cloud Security" ,
+    "target" : "cloud" ,
+    "relation" : "Applied Technology"
+},
+{
+    "source" : "Cloud Storage" ,
+    "target" : "cloud" ,
+    "relation" : "Applied Technology"
+},
+{
+    "source" : "Cloud Print Service" ,
+    "target" : "cloud" ,
+    "relation" : "Applied Technology"
+},
+{
+    "source" : "Cloud Data" ,
+    "target" : "cloud" ,
+    "relation" : "Applied Technology"
+},
+{
+    "source" : "Cloud Database Service" ,
+    "target" : "cloud" ,
+    "relation" : "Applied Technology"
+},
+{
+    "source" : "Cloud Natural Language Processing Function" ,
+    "target" : "cloud" ,
+    "relation" : "Applied Technology"
+},
+{
+    "source" : "Cloud Access Service" ,
+    "target" : "cloud" ,
+    "relation" : "Applied Technology"
+},
+{
+    "source" : "cloud service" ,
+    "target" : "cloud" ,
+    "relation" : "Applied Technology"
+},
+{
+    "source" : "Cloud Server" ,
+    "target" : "cloud" ,
+    "relation" : "Applied Technology"
+},
+{
+    "source" : "Cloud Server Matrix" ,
+    "target" : "cloud" ,
+    "relation" : "Applied Technology"
+},
+{
+    "source" : "Cloud Service Ecology" ,
+    "target" : "cloud" ,
+    "relation" : "Applied Technology"
+},
+{
+    "source" : "cloud computing" ,
+    "target" : "cloud" ,
+    "relation" : "Applied Technology"
+},
+{
+    "source" : "Cloud Computing Platform" ,
+    "target" : "cloud" ,
+    "relation" : "Applied Technology"
+},
+{
+    "source" : "Cloud Matrix" ,
+    "target" : "cloud" ,
+    "relation" : "Applied Technology"
+},
+{
+    "source" : "Cloud Matrix Strategy" ,
+    "target" : "cloud" ,
+    "relation" : "Applied Technology"
+},
+{
+    "source" : "Cloud Customer Service" ,
+    "target" : "cloud" ,
+    "relation" : "Applied Technology"
+},
+{
+    "source" : "Cloud Disk" ,
+    "target" : "cloud" ,
+    "relation" : "Applied Technology"
+},
+{
+    "source" : "Yunqi Conference" ,
+    "target" : "cloud" ,
+    "relation" : "Applied Technology"
+},
+{
+    "source" : "Cloud Database Product" ,
+    "target" : "cloud" ,
+    "relation" : "Applied Technology"
+},
+{
+    "source" : "Cloud Data Center" ,
+    "target" : "cloud" ,
+    "relation" : "Applied Technology"
+},
+{
+    "source" : "Cloud Search" ,
+    "target" : "cloud" ,
+    "relation" : "Applied Technology"
+},
+{
+    "source" : "Cloud Disk" ,
+    "target" : "cloud" ,
+    "relation" : "Applied Technology"
+},
+{
+    "source" : "Cloud Natural Language API" ,
+    "target" : "cloud" ,
+    "relation" : "Applied Technology"
+},
+{
+    "source" : "Intelligent Cloud" ,
+    "target" : "cloud" ,
+    "relation" : "Applied Technology"
+},
+{
+    "source" : "Bluetooth function" ,
+    "target" : "Bluetooth" ,
+    "relation" : "Applied Technology"
+},
+{
+    "source" : "Bluetooth call" ,
+    "target" : "Bluetooth" ,
+    "relation" : "Applied Technology"
+},
+{
+    "source" : "Bluetooth Speaker" ,
+    "target" : "Bluetooth" ,
+    "relation" : "Applied Technology"
+},
+{
+    "source" : "Bluetooth Sensor" ,
+    "target" : "Bluetooth" ,
+    "relation" : "Applied Technology"
+},
+{
+    "source" : "Quantum Communication Technology" ,
+    "target" : "quantum" ,
+    "relation" : "Applied Technology"
+},
+{
+    "source" : "Quantum Computing" ,
+    "target" : "quantum" ,
+    "relation" : "Applied Technology"
+},
+{
+    "source" : "Blockchain Healthcare" ,
+    "target" : "blockchain" ,
+    "relation" : "Applied Technology"
+},
+{
+    "source" : "Face Recognition Ordering" ,
+    "target" : "image recognition" ,
+    "relation" : "Applied Technology"
+},
+{
+    "source" : "Face Recognition Gate" ,
+    "target" : "image recognition" ,
+    "relation" : "Applied Technology"
+},
+{
+    "source" : "Portrait Mode" ,
+    "target" : "image recognition" ,
+    "relation" : "Applied Technology"
+},
+{
+    "source" : "Swipe your face to log in" ,
+    "target" : "image recognition" ,
+    "relation" : "Applied Technology"
+},
+{
+    "source" : "Swipe your face to pay" ,
+    "target" : "image recognition" ,
+    "relation" : "Applied Technology"
+},
+{
+    "source" : "Image Recognition" ,
+    "target" : "image recognition" ,
+    "relation" : "Applied Technology"
+},
+{
+    "source" : "Face Recognition" ,
+    "target" : "image recognition" ,
+    "relation" : "Applied Technology"
+},
+{
+    "source" : "Scan QR code to withdraw money" ,
+    "target" : "scan code" ,
+    "relation" : "Applied Technology"
+},
+{
+    "source" : "Scan code tax refund" ,
+    "target" : "scan code" ,
+    "relation" : "Applied Technology"
+},
+{
+    "source" : "Scan code payment" ,
+    "target" : "scan code" ,
+    "relation" : "Applied Technology"
+},
+{
+    "source" : "Scan code function" ,
+    "target" : "scan code" ,
+    "relation" : "Applied Technology"
+},
+{
+    "source" : "Voice Navigation" ,
+    "target" : "Natural Language Processing" ,
+    "relation" : "Applied Technology"
+},
+{
+    "source" : "Voice ordering" ,
+    "target" : "Natural Language Processing" ,
+    "relation" : "Applied Technology"
+},
+{
+    "source" : "Voice Distribution" ,
+    "target" : "Natural Language Processing" ,
+    "relation" : "Applied Technology"
+},
+{
+    "source" : "Voice Shopping" ,
+    "target" : "Natural Language Processing" ,
+    "relation" : "Applied Technology"
+},
+{
+    "source" : "Voice Technology Interface" ,
+    "target" : "Natural Language Processing" ,
+    "relation" : "Applied Technology"
+},
+{
+    "source" : "Voice Open Platform" ,
+    "target" : "Natural Language Processing" ,
+    "relation" : "Applied Technology"
+},
+{
+    "source" : "Voice Pay" ,
+    "target" : "Natural Language Processing" ,
+    "relation" : "Applied Technology"
+},
+{
+    "source" : "Voice Internet Access Device" ,
+    "target" : "Natural Language Processing" ,
+    "relation" : "Applied Technology"
+},
+{
+    "source" : "Voice Social" ,
+    "target" : "Natural Language Processing" ,
+    "relation" : "Applied Technology"
+},
+{
+    "source" : "Speech Recognition" ,
+    "target" : "Natural Language Processing" ,
+    "relation" : "Applied Technology"
+},
+{
+    "source" : "Voice input" ,
+    "target" : "Natural Language Processing" ,
+    "relation" : "Applied Technology"
+},
+{
+    "source" : "Voice call" ,
+    "target" : "Natural Language Processing" ,
+    "relation" : "Applied Technology"
+},
+{
+    "source" : "Voice Q&A Product" ,
+    "target" : "Natural Language Processing" ,
+    "relation" : "Applied Technology"
+},
+{
+    "source" : "Voice remote query vehicle status server" ,
+    "target" : "Natural Language Processing" ,
+    "relation" : "Applied Technology"
+},
+{
+    "source" : "Voice Command Visualization" ,
+    "target" : "Natural Language Processing" ,
+    "relation" : "Applied Technology"
+},
+{
+    "source" : "Voice Assistant" ,
+    "target" : "Natural Language Processing" ,
+    "relation" : "Applied Technology"
+},
+{
+    "source" : "Cloud Natural Language Processing Function" ,
+    "target" : "Natural Language Processing" ,
+    "relation" : "Applied Technology"
+},
+{
+    "source" : "Cloud Natural Language API" ,
+    "target" : "Natural Language Processing" ,
+    "relation" : "Applied Technology"
+},
+{
+    "source" : "Intelligent Voice Product" ,
+    "target" : "Natural Language Processing" ,
+    "relation" : "Applied Technology"
+},
+{
+    "source" : "Natural Language Processing" ,
+    "target" : "Natural Language Processing" ,
+    "relation" : "Applied Technology"
+},
+{
+    "source" : "Contextual Understanding" ,
+    "target" : "Natural Language Processing" ,
+    "relation" : "Applied Technology"
+},
+{
+    "source" : "Smart Button" ,
+    "target" : "intelligent" ,
+    "relation" : "Applied Technology"
+},
+{
+    "source" : "Smart Whiteboard" ,
+    "target" : "intelligent" ,
+    "relation" : "Applied Technology"
+},
+{
+    "source" : "Smart Newsstand" ,
+    "target" : "intelligent" ,
+    "relation" : "Applied Technology"
+},
+{
+    "source" : "Smart Watch Band" ,
+    "target" : "intelligent" ,
+    "relation" : "Applied Technology"
+},
+{
+    "source" : "Smart Refrigerator" ,
+    "target" : "intelligent" ,
+    "relation" : "Applied Technology"
+},
+{
+    "source" : "Smart Car" ,
+    "target" : "intelligent" ,
+    "relation" : "Applied Technology"
+},
+{
+    "source" : "Smart Ship" ,
+    "target" : "intelligent" ,
+    "relation" : "Applied Technology"
+},
+{
+    "source" : "Smart Battery" ,
+    "target" : "intelligent" ,
+    "relation" : "Applied Technology"
+},
+{
+    "source" : "Smart TV" ,
+    "target" : "intelligent" ,
+    "relation" : "Applied Technology"
+},
+{
+    "source" : "Smart Clothing" ,
+    "target" : "intelligent" ,
+    "relation" : "Applied Technology"
+},
+{
+    "source" : "Smart Shopping" ,
+    "target" : "intelligent" ,
+    "relation" : "Applied Technology"
+},
+{
+    "source" : "Intelligent Valuation Artifact" ,
+    "target" : "intelligent" ,
+    "relation" : "Applied Technology"
+},
+{
+    "source" : "Intelligent Internet Products" ,
+    "target" : "intelligent" ,
+    "relation" : "Applied Technology"
+},
+{
+    "source" : "Intelligent Transformation" ,
+    "target" : "intelligent" ,
+    "relation" : "Applied Technology"
+},
+{
+    "source" : "Intelligent Service" ,
+    "target" : "intelligent" ,
+    "relation" : "Applied Technology"
+},
+{
+    "source" : "Smart Reply" ,
+    "target" : "intelligent" ,
+    "relation" : "Applied Technology"
+},
+{
+    "source" : "Smart Container" ,
+    "target" : "intelligent" ,
+    "relation" : "Applied Technology"
+},
+{
+    "source" : "Smart Gas Station" ,
+    "target" : "intelligent" ,
+    "relation" : "Applied Technology"
+},
+{
+    "source" : "Smart Appliances" ,
+    "target" : "intelligent" ,
+    "relation" : "Applied Technology"
+},
+{
+    "source" : "Smart Ring" ,
+    "target" : "intelligent" ,
+    "relation" : "Applied Technology"
+},
+{
+    "source" : "Smart Finance" ,
+    "target" : "intelligent" ,
+    "relation" : "Applied Technology"
+},
+{
+    "source" : "Intelligent Customer Service" ,
+    "target" : "intelligent" ,
+    "relation" : "Applied Technology"
+},
+{
+    "source" : "Smart Distribution Center" ,
+    "target" : "intelligent" ,
+    "relation" : "Applied Technology"
+},
+{
+    "source" : "Smart Screen" ,
+    "target" : "intelligent" ,
+    "relation" : "Applied Technology"
+},
+{
+    "source" : "Smart Car" ,
+    "target" : "intelligent" ,
+    "relation" : "Applied Technology"
+},
+{
+    "source" : "Smart Camera" ,
+    "target" : "intelligent" ,
+    "relation" : "Applied Technology"
+},
+{
+    "source" : "Intelligent Video Playback System" ,
+    "target" : "intelligent" ,
+    "relation" : "Applied Technology"
+},
+{
+    "source" : "Smart Watch" ,
+    "target" : "intelligent" ,
+    "relation" : "Applied Technology"
+},
+{
+    "source" : "Smart Bracelet" ,
+    "target" : "intelligent" ,
+    "relation" : "Applied Technology"
+},
+{
+    "source" : "Smartphone" ,
+    "target" : "intelligent" ,
+    "relation" : "Applied Technology"
+},
+{
+    "source" : "Smart Bracelet" ,
+    "target" : "intelligent" ,
+    "relation" : "Applied Technology"
+},
+{
+    "source" : "Smart Lock" ,
+    "target" : "intelligent" ,
+    "relation" : "Applied Technology"
+},
+{
+    "source" : "Smart Helmet" ,
+    "target" : "intelligent" ,
+    "relation" : "Applied Technology"
+},
+{
+    "source" : "robo-advisory product" ,
+    "target" : "intelligent" ,
+    "relation" : "Applied Technology"
+},
+{
+    "source" : "Smart Investment" ,
+    "target" : "intelligent" ,
+    "relation" : "Applied Technology"
+},
+{
+    "source" : "Intelligent Networking" ,
+    "target" : "intelligent" ,
+    "relation" : "Applied Technology"
+},
+{
+    "source" : "Smart Wireless Router" ,
+    "target" : "intelligent" ,
+    "relation" : "Applied Technology"
+},
+{
+    "source" : "Intelligent Logistics System" ,
+    "target" : "intelligent" ,
+    "relation" : "Applied Technology"
+},
+{
+    "source" : "Smart Fiber" ,
+    "target" : "intelligent" ,
+    "relation" : "Applied Technology"
+},
+{
+    "source" : "Intelligent Information Push" ,
+    "target" : "intelligent" ,
+    "relation" : "Applied Technology"
+},
+{
+    "source" : "Intelligent Industry" ,
+    "target" : "intelligent" ,
+    "relation" : "Applied Technology"
+},
+{
+    "source" : "Smart Blood Pressure Monitor" ,
+    "target" : "intelligent" ,
+    "relation" : "Applied Technology"
+},
+{
+    "source" : "Smart Glasses" ,
+    "target" : "intelligent" ,
+    "relation" : "Applied Technology"
+},
+{
+    "source" : "Smart Speaker" ,
+    "target" : "intelligent" ,
+    "relation" : "Applied Technology"
+},
+{
+    "source" : "Smart Clothing" ,
+    "target" : "intelligent" ,
+    "relation" : "Applied Technology"
+},
+{
+    "source" : "Smart Medical Hardware" ,
+    "target" : "intelligent" ,
+    "relation" : "Applied Technology"
+},
+{
+    "source" : "Smart Speaker" ,
+    "target" : "intelligent" ,
+    "relation" : "Applied Technology"
+},
+{
+    "source" : "Smart Bank" ,
+    "target" : "intelligent" ,
+    "relation" : "Applied Technology"
+},
+{
+    "source" : "Smart Marketing" ,
+    "target" : "intelligent" ,
+    "relation" : "Applied Technology"
+},
+{
+    "source" : "Intelligent Hardware" ,
+    "target" : "intelligent" ,
+    "relation" : "Applied Technology"
+},
+{
+    "source" : "Intelligent Voice Product" ,
+    "target" : "intelligent" ,
+    "relation" : "Applied Technology"
+},
+{
+    "source" : "Intelligent Cloud" ,
+    "target" : "intelligent" ,
+    "relation" : "Applied Technology"
+},
+{
+    "source" : "Smart Manufacturing" ,
+    "target" : "intelligent" ,
+    "relation" : "Applied Technology"
+},
+{
+    "source" : "Smart Equipment" ,
+    "target" : "intelligent" ,
+    "relation" : "Applied Technology"
+},
+{
+    "source" : "Smart POS Machine" ,
+    "target" : "intelligent" ,
+    "relation" : "Applied Technology"
+},
+{
+    "source" : "Smart Restaurant" ,
+    "target" : "wisdom" ,
+    "relation" : "Applied Technology"
+},
+{
+    "source" : "Smart City" ,
+    "target" : "wisdom" ,
+    "relation" : "Applied Technology"
+},
+{
+    "source" : "Smart Travel" ,
+    "target" : "wisdom" ,
+    "relation" : "Applied Technology"
+},
+{
+    "source" : "Smart Store" ,
+    "target" : "wisdom" ,
+    "relation" : "Applied Technology"
+},
+{
+    "source" : "Smart Court" ,
+    "target" : "wisdom" ,
+    "relation" : "Applied Technology"
+},
+{
+    "source" : "Smart Supply Chain" ,
+    "target" : "wisdom" ,
+    "relation" : "Applied Technology"
+},
+{
+    "source" : "Smart Airport" ,
+    "target" : "wisdom" ,
+    "relation" : "Applied Technology"
+},
+{
+    "source" : "Smart Home" ,
+    "target" : "wisdom" ,
+    "relation" : "Applied Technology"
+},
+{
+    "source" : "Smart Health" ,
+    "target" : "wisdom" ,
+    "relation" : "Applied Technology"
+},
+{
+    "source" : "Smart Traffic" ,
+    "target" : "wisdom" ,
+    "relation" : "Applied Technology"
+},
+{
+    "source" : "Smart Scenic Spot" ,
+    "target" : "wisdom" ,
+    "relation" : "Applied Technology"
+},
+{
+    "source" : "Smart Hotel" ,
+    "target" : "wisdom" ,
+    "relation" : "Applied Technology"
+},
+{
+    "source" : "Smart Beauty Industry" ,
+    "target" : "wisdom" ,
+    "relation" : "Applied Technology"
+},
+{
+    "source" : "Smart Car" ,
+    "target" : "wisdom" ,
+    "relation" : "Applied Technology"
+},
+{
+    "source" : "Smart Community" ,
+    "target" : "wisdom" ,
+    "relation" : "Applied Technology"
+},
+{
+    "source" : "Smart Life Experience Store" ,
+    "target" : "wisdom" ,
+    "relation" : "Applied Technology"
+},
+{
+    "source" : "Smart Parking" ,
+    "target" : "wisdom" ,
+    "relation" : "Applied Technology"
+},
+{
+    "source" : "Smart Logistics" ,
+    "target" : "wisdom" ,
+    "relation" : "Applied Technology"
+},
+{
+    "source" : "Smart Campus" ,
+    "target" : "wisdom" ,
+    "relation" : "Applied Technology"
+},
+{
+    "source" : "Smart Pension" ,
+    "target" : "wisdom" ,
+    "relation" : "Applied Technology"
+},
+{
+    "source" : "Smart Healthcare" ,
+    "target" : "wisdom" ,
+    "relation" : "Applied Technology"
+},
+{
+    "source" : "Smart Bank" ,
+    "target" : "wisdom" ,
+    "relation" : "Applied Technology"
+},
+{
+    "source" : "Smart Cinema" ,
+    "target" : "wisdom" ,
+    "relation" : "Applied Technology"
+},
+{
+    "source" : "Smart Movement" ,
+    "target" : "wisdom" ,
+    "relation" : "Applied Technology"
+},
+{
+    "source" : "Smart Government" ,
+    "target" : "wisdom" ,
+    "relation" : "Applied Technology"
+},
+{
+    "source" : "Smart Office" ,
+    "target" : "wisdom" ,
+    "relation" : "Applied Technology"
+},
+{
+    "source" : "Internet+" ,
+    "target" : "Internet+" ,
+    "relation" : "Applied Technology"
+},
+{
+    "source" : "Internet + University" ,
+    "target" : "Internet+" ,
+    "relation" : "Applied Technology"
+},
+{
+    "source" : "Internet + Finance" ,
+    "target" : "Internet+" ,
+    "relation" : "Applied Technology"
+},
+{
+    "source" : "Internet + Finance + Tourism" ,
+    "target" : "Internet+" ,
+    "relation" : "Applied Technology"
+},
+{
+    "source" : "Internet + Energy" ,
+    "target" : "Internet+" ,
+    "relation" : "Applied Technology"
+},
+{
+    "source" : "Internet + Ecology" ,
+    "target" : "Internet+" ,
+    "relation" : "Applied Technology"
+},
+{
+    "source" : "Internet Service" ,
+    "target" : "Internet+" ,
+    "relation" : "Applied Technology"
+},
+{
+    "source" : "Internet Skills Certification" ,
+    "target" : "Internet+" ,
+    "relation" : "Applied Technology"
+},
+{
+    "source" : "Internet car" ,
+    "target" : "Internet+" ,
+    "relation" : "Applied Technology"
+},
+{
+    "source" : "Internet Car Rally" ,
+    "target" : "Internet+" ,
+    "relation" : "Applied Technology"
+},
+{
+    "source" : "Internet Business" ,
+    "target" : "Internet+" ,
+    "relation" : "Applied Technology"
+},
+{
+    "source" : "Internet Medical" ,
+    "target" : "Internet+" ,
+    "relation" : "Applied Technology"
+},
+{
+    "source" : "Internet Hospital" ,
+    "target" : "Internet+" ,
+    "relation" : "Applied Technology"
+},
+{
+    "source" : "Internet Banking" ,
+    "target" : "Internet+" ,
+    "relation" : "Applied Technology"
+},
+{
+    "source" : "Internet Film and Television Entertainment Ecology" ,
+    "target" : "Internet+" ,
+    "relation" : "Applied Technology"
+},
+{
+    "source" : "Internet diagnosis and treatment platform" ,
+    "target" : "Internet+" ,
+    "relation" : "Applied Technology"
+},
+{
+    "source" : "Operation 'Joy Seeking'" ,
+    "target" : "Entertainment Circle" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "Ivy Film Workshop" ,
+    "target" : "Entertainment Circle" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "TV show" ,
+    "target" : "Entertainment Circle" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "movie" ,
+    "target" : "Entertainment Circle" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "Film Industry" ,
+    "target" : "Entertainment Circle" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "Short Video" ,
+    "target" : "Entertainment Circle" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "Pan entertainment" ,
+    "target" : "Entertainment Circle" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "Chinese Music Platform" ,
+    "target" : "Entertainment Circle" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "Internet Film and Television Entertainment Ecology" ,
+    "target" : "Entertainment Circle" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "Media win-win ecosystem" ,
+    "target" : "Entertainment Circle" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "American TV series" ,
+    "target" : "Entertainment Circle" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "star" ,
+    "target" : "Entertainment Circle" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "Korean Restriction Order" ,
+    "target" : "Entertainment Circle" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "Hong Kong Film and Television Exhibition" ,
+    "target" : "Entertainment Circle" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "Artist Manager" ,
+    "target" : "Entertainment Circle" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "Music Festival" ,
+    "target" : "Entertainment Circle" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "musician" ,
+    "target" : "Entertainment Circle" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "Video Project" ,
+    "target" : "Entertainment Circle" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "Film and Television Industry" ,
+    "target" : "Entertainment Circle" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "Entertainment Channel" ,
+    "target" : "Entertainment Circle" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "Reality Show" ,
+    "target" : "Entertainment Circle" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "3D map" ,
+    "target" : "Travel" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "city travel" ,
+    "target" : "Travel" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "Ride code" ,
+    "target" : "Travel" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "Traveling" ,
+    "target" : "Travel" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "Travel Service" ,
+    "target" : "Travel" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "Travel Prediction Service" ,
+    "target" : "Travel" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "Travel Service" ,
+    "target" : "Travel" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "Taxi service" ,
+    "target" : "Travel" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "Navigation Service" ,
+    "target" : "Travel" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "Subway Watching Movies" ,
+    "target" : "Travel" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "Subway Payment" ,
+    "target" : "Travel" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "Map Service" ,
+    "target" : "Travel" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "Electric Vehicle" ,
+    "target" : "Travel" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "Electric Vehicle Navigation" ,
+    "target" : "Travel" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "Location Services" ,
+    "target" : "Travel" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "Precision Navigation" ,
+    "target" : "Travel" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "High Definition Map" ,
+    "target" : "Travel" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "High Speed Charge" ,
+    "target" : "Travel" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "High Speed Rail" ,
+    "target" : "Travel" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "Public Test Ride Service" ,
+    "target" : "Travel" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "Bus Service" ,
+    "target" : "Travel" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "Shared Travel" ,
+    "target" : "Travel" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "Shared bicycle" ,
+    "target" : "Travel" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "Google Maps" ,
+    "target" : "Travel" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "Overseas Map" ,
+    "target" : "Travel" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "Flight Information Service" ,
+    "target" : "Travel" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "Ticket price change reminder function" ,
+    "target" : "Travel" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "air ticket search software" ,
+    "target" : "Travel" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "Waterlogged Map" ,
+    "target" : "Travel" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "Polar Tourism" ,
+    "target" : "Travel" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "Vacation Travel Service" ,
+    "target" : "Travel" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "Drive Mode" ,
+    "target" : "Travel" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "Driving Software" ,
+    "target" : "Travel" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "vehicle" ,
+    "target" : "Travel" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "Traffic Supervision Service" ,
+    "target" : "Travel" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "Overseas Car Rental" ,
+    "target" : "Travel" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "Hotel Accommodation" ,
+    "target" : "Travel" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "Party Car" ,
+    "target" : "Travel" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "Search for travel package products" ,
+    "target" : "Travel" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "Tourism Service" ,
+    "target" : "Travel" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "tourism content area" ,
+    "target" : "Travel" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "Green Travel" ,
+    "target" : "Travel" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "New Year's Taste Map" ,
+    "target" : "Travel" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "fare" ,
+    "target" : "Travel" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "Carpool Service" ,
+    "target" : "Travel" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "Cycling Navigation" ,
+    "target" : "Travel" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "Enterprise business trip" ,
+    "target" : "Travel" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "Light Navigation" ,
+    "target" : "Travel" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "AI Map" ,
+    "target" : "Travel" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "Business Travel" ,
+    "target" : "Travel" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "Real-time traffic conditions" ,
+    "target" : "Travel" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "Indoor Navigation" ,
+    "target" : "Travel" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "Hitchhiking service" ,
+    "target" : "Travel" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "Illegal Map" ,
+    "target" : "Travel" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "Toilet search function" ,
+    "target" : "Travel" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "Find a charging station service" ,
+    "target" : "Travel" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "Voice Navigation" ,
+    "target" : "Travel" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "Smart Travel" ,
+    "target" : "Travel" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "Smart Traffic" ,
+    "target" : "Travel" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "Automatic Assisted Driving Function" ,
+    "target" : "Travel" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "Autopilot" ,
+    "target" : "Travel" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "Autonomous Driving Shared Travel" ,
+    "target" : "Travel" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "Autonomous Truck" ,
+    "target" : "Travel" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "Autonomous Truck" ,
+    "target" : "Travel" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "Autonomous Vehicles" ,
+    "target" : "Travel" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "Autonomous commuter car" ,
+    "target" : "Travel" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "Autopilot chip" ,
+    "target" : "Travel" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "Bike Navigation" ,
+    "target" : "Travel" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "Bicycle Accessories" ,
+    "target" : "Travel" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "Car Rental Service" ,
+    "target" : "Travel" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "'Cath China's Famous Oral Doctors'" ,
+    "target" : "Medical" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "AI Assisted Diagnosis" ,
+    "target" : "Medical" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "AI Medical Imaging Products" ,
+    "target" : "Medical" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "Overseas Hospital Information" ,
+    "target" : "Medical" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "Internet Medical" ,
+    "target" : "Medical" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "Internet Hospital" ,
+    "target" : "Medical" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "Internet diagnosis and treatment platform" ,
+    "target" : "Medical" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "Disease Detection" ,
+    "target" : "Medical" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "Health Products" ,
+    "target" : "Medical" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "Health Services" ,
+    "target" : "Medical" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "Mobile Medical Equipment" ,
+    "target" : "Medical" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "Private Doctor Business" ,
+    "target" : "Medical" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "Drug delivery service" ,
+    "target" : "Medical" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "Network Hospital" ,
+    "target" : "Medical" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "Offline Clinic" ,
+    "target" : "Medical" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "Credit to a doctor" ,
+    "target" : "Medical" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "Medical Insurance" ,
+    "target" : "Medical" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "Medical Brain" ,
+    "target" : "Medical" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "Medical Services" ,
+    "target" : "Medical" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "Medical Service Platform" ,
+    "target" : "Medical" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "Medical Advertisement" ,
+    "target" : "Medical" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "Medical Robot" ,
+    "target" : "Medical" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "Healthcare Technology" ,
+    "target" : "Medical" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "Medical Field" ,
+    "target" : "Medical" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "Medical Equipment" ,
+    "target" : "Medical" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "Medical Application" ,
+    "target" : "Medical" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "Medical Strategy" ,
+    "target" : "Medical" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "Medical Science" ,
+    "target" : "Medical" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "Medical Research" ,
+    "target" : "Medical" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "Medical Services" ,
+    "target" : "Medical" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "Medical Transportation" ,
+    "target" : "Medical" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "Mobile Healthcare" ,
+    "target" : "Medical" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "Telemedicine Cloud" ,
+    "target" : "Medical" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "York Dentist" ,
+    "target" : "Medical" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "Smart Health" ,
+    "target" : "Medical" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "Smart Healthcare" ,
+    "target" : "Medical" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "Smart Blood Pressure Monitor" ,
+    "target" : "Medical" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "Smart Medical Hardware" ,
+    "target" : "Medical" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "'rafting box'" ,
+    "target" : "Logistics" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "'Extreme Service Plan'" ,
+    "target" : "Logistics" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "'Logistics + Payment' System" ,
+    "target" : "Logistics" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "O2O logistics mode" ,
+    "target" : "Logistics" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "Hong Kong and Macau direct delivery" ,
+    "target" : "Logistics" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "Container Shipping Market" ,
+    "target" : "Logistics" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "Visual Transport" ,
+    "target" : "Logistics" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "Cross-border logistics" ,
+    "target" : "Logistics" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "Express delivery security" ,
+    "target" : "Logistics" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "Express fee" ,
+    "target" : "Logistics" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "Shipping Fee" ,
+    "target" : "Logistics" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "Delivery Service" ,
+    "target" : "Logistics" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "Delivery Robot" ,
+    "target" : "Logistics" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "Distribution Center" ,
+    "target" : "Logistics" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "Global Distribution" ,
+    "target" : "Logistics" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "Global Logistics Network" ,
+    "target" : "Logistics" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "Fresh Transport" ,
+    "target" : "Logistics" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "Drug delivery service" ,
+    "target" : "Logistics" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "Same city logistics" ,
+    "target" : "Logistics" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "Drone Delivery" ,
+    "target" : "Logistics" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "Unmanned Delivery Service" ,
+    "target" : "Logistics" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "Logistics Warehousing" ,
+    "target" : "Logistics" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "Logistics Service" ,
+    "target" : "Logistics" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "Logistics Data Open Platform" ,
+    "target" : "Logistics" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "Logistics Cloud" ,
+    "target" : "Logistics" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "Logistics and Transportation" ,
+    "target" : "Logistics" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "Logistics Center" ,
+    "target" : "Logistics" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "Medical Transportation" ,
+    "target" : "Logistics" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "Smart Logistics" ,
+    "target" : "Logistics" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "Smart Distribution Center" ,
+    "target" : "Logistics" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "ApplePay" ,
+    "target" : "apple" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "AppStore" ,
+    "target" : "apple" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "HomeKit" ,
+    "target" : "apple" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "MFi Certification Standard" ,
+    "target" : "apple" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "Siri" ,
+    "target" : "apple" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "apple" ,
+    "target" : "apple" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "ApplePay" ,
+    "target" : "payment" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "'Logistics + Payment' System" ,
+    "target" : "payment" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "paid group" ,
+    "target" : "payment" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "Payment Code" ,
+    "target" : "payment" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "Call to Pay" ,
+    "target" : "payment" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "Call Bill Payment Market" ,
+    "target" : "payment" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "Mixed Payment" ,
+    "target" : "payment" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "Gas station payment" ,
+    "target" : "payment" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "Aggregate Payment" ,
+    "target" : "payment" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "Air Payment Service" ,
+    "target" : "payment" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "Cross-border payment" ,
+    "target" : "payment" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "Global Transfer Service" ,
+    "target" : "payment" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "Group payment function" ,
+    "target" : "payment" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "Scan code payment" ,
+    "target" : "payment" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "Life Payment" ,
+    "target" : "payment" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "Payment Service" ,
+    "target" : "payment" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "Receipt Code" ,
+    "target" : "payment" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "Watch payment function" ,
+    "target" : "payment" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "Digital Currency Network Payment" ,
+    "target" : "payment" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "Swipe your face to pay" ,
+    "target" : "payment" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "Internet Payment" ,
+    "target" : "payment" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "WeChat Payment" ,
+    "target" : "payment" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "Non-inductive payment" ,
+    "target" : "payment" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "cash payment" ,
+    "target" : "payment" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "Offline Payment Rewards" ,
+    "target" : "payment" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "Mobile Payment" ,
+    "target" : "payment" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "Voice Pay" ,
+    "target" : "payment" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "Monthly Payment" ,
+    "target" : "payment" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "Payment Service" ,
+    "target" : "payment" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "Payment Offer" ,
+    "target" : "payment" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "Joint Screen" ,
+    "target" : "Baidu" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "Flash Cast" ,
+    "target" : "Baidu" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "Search+Feed" ,
+    "target" : "Baidu" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "GoogleNow" ,
+    "target" : "Google" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "GooglePlay" ,
+    "target" : "Google" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "Touch to activate assistant function" ,
+    "target" : "Google" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "Google Maps" ,
+    "target" : "Google" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "Spatial Audio" ,
+    "target" : "Google" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "BabyQ" ,
+    "target" : "Tencent" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "QQ group robot service" ,
+    "target" : "Tencent" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "QQ group authentication" ,
+    "target" : "Tencent" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "QQ Xiaobing" ,
+    "target" : "Tencent" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "TIM" ,
+    "target" : "Tencent" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "Ivy Film Workshop" ,
+    "target" : "Tencent" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "Tencent Cloud Tools" ,
+    "target" : "Tencent" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "Micro Gold Business" ,
+    "target" : "Tencent" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "WeChat" ,
+    "target" : "Tencent" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "WeChat Reading" ,
+    "target" : "Tencent" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "WeChat Payment" ,
+    "target" : "Tencent" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "Great Wall Protection Plan" ,
+    "target" : "Tencent" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "Bing" ,
+    "target" : "Microsoft" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "HoloLens" ,
+    "target" : "Microsoft" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "IE browser" ,
+    "target" : "Microsoft" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "Edge" ,
+    "target" : "Microsoft" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "Office" ,
+    "target" : "Microsoft" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "OneDrive" ,
+    "target" : "Microsoft" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "Skype" ,
+    "target" : "Microsoft" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "WindowsMobile" ,
+    "target" : "Microsoft" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "Xiao Ice" ,
+    "target" : "Microsoft" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "Xana" ,
+    "target" : "Microsoft" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "Alibaba Cloud" ,
+    "target" : "Alibaba" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "collection of five blessings" ,
+    "target" : "Alibaba" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "Air Payment Service" ,
+    "target" : "Alibaba" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "Ecological IoT Alliance" ,
+    "target" : "Alibaba" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "Alipay" ,
+    "target" : "Alibaba" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "Alibaba" ,
+    "target" : "Alibaba" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "Security Vulnerability" ,
+    "target" : "problem" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "Security Intrusion" ,
+    "target" : "problem" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "Non-compliant product" ,
+    "target" : "problem" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "Unfair Competition" ,
+    "target" : "problem" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "layoffs" ,
+    "target" : "problem" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "Crack down on fraudulent orders" ,
+    "target" : "problem" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "Fighting Fake News" ,
+    "target" : "problem" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "Short Video Rights Protection" ,
+    "target" : "problem" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "Block extreme videos" ,
+    "target" : "problem" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "crime" ,
+    "target" : "problem" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "Antitrust" ,
+    "target" : "problem" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "Anti-swipe" ,
+    "target" : "problem" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "Food is prohibited by law" ,
+    "target" : "problem" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "Service failure" ,
+    "target" : "problem" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "vulnerability" ,
+    "target" : "problem" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "harassing call" ,
+    "target" : "problem" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "accident" ,
+    "target" : "problem" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "Internet Gambling" ,
+    "target" : "problem" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "Illegal Product" ,
+    "target" : "problem" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "False advertising of illegal content" ,
+    "target" : "problem" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "Illegal Account" ,
+    "target" : "problem" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "Fake News" ,
+    "target" : "problem" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "Creation Alliance" ,
+    "target" : "Jingdong" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "Jingdong" ,
+    "target" : "Jingdong" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "Sharing Economy" ,
+    "target" : "Shared" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "Shared Charge" ,
+    "target" : "Shared" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "Shared Travel" ,
+    "target" : "Shared" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "Shared bicycle" ,
+    "target" : "Shared" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "Standards for Shared Bikes" ,
+    "target" : "Shared" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "Shared bicycle monthly card" ,
+    "target" : "Shared" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "Shared Express Box" ,
+    "target" : "Shared" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "Shared Retail" ,
+    "target" : "Shared" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "Shared car" ,
+    "target" : "Shared" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "Shareware" ,
+    "target" : "Shared" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "Shared Fashion" ,
+    "target" : "Shared" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "Shared data" ,
+    "target" : "Shared" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "Video Sharing Service" ,
+    "target" : "Shared" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "Classroom Function" ,
+    "target" : "Education" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "Educational Services" ,
+    "target" : "Education" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "Educational Institution" ,
+    "target" : "Education" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "Education Technology" ,
+    "target" : "Education" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "Course Booking Function" ,
+    "target" : "Education" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "Net Master Classroom" ,
+    "target" : "Education" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "school" ,
+    "target" : "Education" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "Pocket University" ,
+    "target" : "Education" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "Financial Security" ,
+    "target" : "Finance" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "Financial Products" ,
+    "target" : "Finance" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "Financial Innovation" ,
+    "target" : "Finance" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "Financial Risk Warning" ,
+    "target" : "Finance" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "Financial Services" ,
+    "target" : "Finance" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "Financial Supply Chain" ,
+    "target" : "Finance" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "Financial Regulatory Technology Field" ,
+    "target" : "Finance" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "Fintech" ,
+    "target" : "Finance" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "Financial License" ,
+    "target" : "Finance" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "Financial Platform" ,
+    "target" : "Finance" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "Finance School" ,
+    "target" : "Finance" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "Financial Marketing Platform" ,
+    "target" : "Finance" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "Change Pass" ,
+    "target" : "Finance" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "Inclusive Finance" ,
+    "target" : "Finance" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "Enterprise Cloud Service + Finance" ,
+    "target" : "Finance" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "Auto Finance" ,
+    "target" : "Finance" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "willful payment" ,
+    "target" : "Finance" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "Micro Gold Business" ,
+    "target" : "Finance" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "Consumer Finance" ,
+    "target" : "Finance" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "New Finance" ,
+    "target" : "Finance" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "pension finance" ,
+    "target" : "Finance" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "Yu Libao" ,
+    "target" : "Finance" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "bond" ,
+    "target" : "Finance" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "Alipay" ,
+    "target" : "Finance" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "Smart Finance" ,
+    "target" : "Finance" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "Smart Investment" ,
+    "target" : "Finance" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "Enterprise Office Hardware" ,
+    "target" : "Enterprise" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "Enterprise Service" ,
+    "target" : "Enterprise" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "Enterprise business trip" ,
+    "target" : "Enterprise" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "Enterprise Architecture" ,
+    "target" : "Enterprise" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "Enterprise Network Suitability" ,
+    "target" : "Enterprise" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "Enterprise Informatization" ,
+    "target" : "Enterprise" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "Enterprise Application" ,
+    "target" : "Enterprise" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "Enterprise Cloud Service" ,
+    "target" : "Enterprise" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "Enterprise Cloud Service + Finance" ,
+    "target" : "Enterprise" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "Corporate Bond" ,
+    "target" : "Enterprise" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "Enterprise Intelligence" ,
+    "target" : "Enterprise" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "Car Supermarket" ,
+    "target" : "car" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "Car charging business" ,
+    "target" : "car" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "Car battery" ,
+    "target" : "car" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "Auto Finance" ,
+    "target" : "car" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "Car Life Platform" ,
+    "target" : "car" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "Car Chip" ,
+    "target" : "car" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "Automotive Industry" ,
+    "target" : "car" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "Automotive Maintenance Industry Upgrade" ,
+    "target" : "car" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "Automobile Supplies" ,
+    "target" : "car" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "Auto Vending" ,
+    "target" : "car" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "Car" ,
+    "target" : "car" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "Social function" ,
+    "target" : "social" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "Social Finance" ,
+    "target" : "social" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "Social Media Accounts" ,
+    "target" : "social" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "Social software" ,
+    "target" : "social" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "Social bracelet" ,
+    "target" : "social" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "social networking site domain name" ,
+    "target" : "social" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "Social Collaboration Platform" ,
+    "target" : "social" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "Social app" ,
+    "target" : "social" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "Image Social Tool" ,
+    "target" : "social" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "Voice Social" ,
+    "target" : "social" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "Social Commerce" ,
+    "target" : "social" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "Video distribution rights" ,
+    "target" : "video" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "Video Service" ,
+    "target" : "video" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "Video function" ,
+    "target" : "video" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "Video Sharing Service" ,
+    "target" : "video" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "Video Social" ,
+    "target" : "video" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "Video Search" ,
+    "target" : "video" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "Video Thumbnail Animated Preview" ,
+    "target" : "video" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "Video call" ,
+    "target" : "video" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "Video Q&A" ,
+    "target" : "video" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "Video Object Recognition" ,
+    "target" : "video" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "Video feed ads" ,
+    "target" : "video" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "Video Strategy" ,
+    "target" : "video" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "Video autoplay" ,
+    "target" : "video" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "4K video" ,
+    "target" : "video" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "Short Video" ,
+    "target" : "video" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "Total solar eclipse video" ,
+    "target" : "video" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "video" ,
+    "target" : "video" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "Mobile phone touch display module" ,
+    "target" : "mobile phone" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "Mobile phone battery" ,
+    "target" : "mobile phone" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "Mobile phone recycling" ,
+    "target" : "mobile phone" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "Mobile phone retail market" ,
+    "target" : "mobile phone" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "Mobile phone accessories" ,
+    "target" : "mobile phone" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "Mobile phone accessories certification" ,
+    "target" : "mobile phone" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "Phone screen" ,
+    "target" : "mobile phone" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "Mobile phone camera" ,
+    "target" : "mobile phone" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "Mobile phone data migration" ,
+    "target" : "mobile phone" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "Mobile Appearance" ,
+    "target" : "mobile phone" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "Mobile phone system" ,
+    "target" : "mobile phone" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "Mobile phone camera" ,
+    "target" : "mobile phone" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "Mobile phone chip" ,
+    "target" : "mobile phone" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "Mobile phone retouching" ,
+    "target" : "mobile phone" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "Mobile phone business" ,
+    "target" : "mobile phone" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "Mobile Medical Equipment" ,
+    "target" : "mobile phone" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "Mobile Game" ,
+    "target" : "mobile phone" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "Mobile phone recall service" ,
+    "target" : "mobile phone" ,
+    "relation" : "Application Field"
+},
+{
+    "source" : "mobile phone" ,
+    "target" : "mobile phone" ,
+    "relation" : "Application Field"
+}]
